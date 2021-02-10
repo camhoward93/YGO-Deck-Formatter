@@ -3,6 +3,6 @@ Two friends playing Yu-Gi-Oh online and modifying a deck formatter for their col
 
 ### To Do List
 
-- __1__ - Add a card database with card type to use for...
+- __1__ - Create a card database in csv file from the most recent php database from ygopro
 
-- __2__ - Add a check for extra decks cards (using the database created in step 1.)
+- __2__ - Add a check for extra decks cards and shift as necessary (using the database created in step 1.)
