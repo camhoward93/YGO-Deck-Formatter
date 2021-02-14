@@ -1,14 +1,14 @@
 Card ID,Card Name,Card Type
-34541863,\"A\" Cell Breeding Device,Spell Card
-64163367,\"A\" Cell Incubator,Spell Card
-91231901,\"A\" Cell Recombination Device,Spell Card
-73262676,\"A\" Cell Scatter Burst,Spell Card
-37478723,\"Infernoble Arms - Durendal\",Spell Card
-64867422,\"Infernoble Arms - Hauteclere\",Spell Card
-90861137,\"Infernoble Arms - Joyeuse\",Spell Card
+34541863,"\""A\"" Cell Breeding Device",Spell Card
+64163367,"\""A\"" Cell Incubator",Spell Card
+91231901,"\""A\"" Cell Recombination Device",Spell Card
+73262676,"\""A\"" Cell Scatter Burst",Spell Card
+37478723,"\""Infernoble Arms - Durendal\""",Spell Card
+64867422,"\""Infernoble Arms - Hauteclere\""",Spell Card
+90861137,"\""Infernoble Arms - Joyeuse\""",Spell Card
 44256816,1st Movement Solo,Spell Card
 86988864,3-Hump Lacooda,Effect Monster
-11714098,,30,,000-Year White Turtle,,Normal Monster
+11714098,"30,000-Year White Turtle",Normal Monster
 83994646,4-Starred Ladybug of Doom,Flip Effect Monster
 67048711,7,Spell Card
 23771716,7 Colored Fish,Normal Monster
@@ -118,7 +118,7 @@ Card ID,Card Name,Card Type
 72957245,Adamancipator Signs,Spell Card
 62325062,Adhesion Trap Hole,Trap Card
 53828396,Adhesive Explosive,Effect Monster
-94119480,,Adreus,, Keeper of Armageddon,,XYZ Monster
+94119480,"Adreus, Keeper of Armageddon",XYZ Monster
 51630558,Advance Draw,Spell Card
 38589847,Advance Force,Spell Card
 76224717,Advance Zone,Spell Card
@@ -129,37 +129,37 @@ Card ID,Card Name,Card Type
 47060347,Aegis of Gaia,Trap Card
 7935043,Aegis of the Ocean Dragon Lord,Trap Card
 70875955,Aerial Recharge,Trap Card
-56804361,,Aether,, the Empowering Dragon,,Effect Monster
-28865322,,Aether,, the Evil Empowering Dragon,,Pendulum Effect Monster
+56804361,"Aether, the Empowering Dragon",Effect Monster
+28865322,"Aether, the Evil Empowering Dragon",Pendulum Effect Monster
 82263578,After the Storm,Spell Card
 25345186,After The Struggle,Spell Card
 43575579,Afterglow,Spell Card
 64952266,Against the Wind,Spell Card
 2411269,Agave Dragon,Link Monster
 16135253,Agido,Effect Monster
-86377375,,Ahrima,, the Wicked Warden,,Effect Monster
+86377375,"Ahrima, the Wicked Warden",Effect Monster
 69023354,Air Armor Ninja,Effect Monster
 98864751,Air Cracking Storm,Spell Card
 8353769,Air Eater,Normal Monster
 18036057,Airknight Parshath,Effect Monster
 84747429,Airorca,Effect Monster
 48202661,Aitsu,Normal Monster
-35877582,,Aiwass,, the Magistus Spell Spirit,,Fusion Monster
+35877582,"Aiwass, the Magistus Spell Spirit",Fusion Monster
 38035986,Akakieisu,Normal Monster
 28776350,Akashic Magician,Link Monster
 36904469,Akihiron,Normal Monster
-38837163,,Akz,, the Pumer,,Effect Monster
+38837163,"Akz, the Pumer",Effect Monster
 25795273,Al-Lumi'raj,Tuner Monster
 87746184,Albion the Stigmatika Dragon,Fusion Monster
 65301952,Alchemic Magician,XYZ Monster
 78121572,Alchemist of Black Spells,Effect Monster
 65384019,Alchemy Cycle,Trap Card
-17573739,,Alector,, Sovereign of Birds,,Effect Monster
+17573739,"Alector, Sovereign of Birds",Effect Monster
 86120751,Aleister the Invoker,Effect Monster
 97973962,Aleister the Invoker of Madness,Link Monster
-100416006,,Aleth,, Dusk of the Abhyss,,Effect Monster
+100416006,"Aleth, Dusk of the Abhyss",Effect Monster
 43096270,Alexandrite Dragon,Normal Monster
-47728740,,Alich,, Malebranche of the Burning Abyss,,Effect Monster
+47728740,"Alich, Malebranche of the Burning Abyss",Effect Monster
 652362,Alien Ammonite,Tuner Monster
 17490535,Alien Brain,Trap Card
 15475415,Alien Dog,Effect Monster
@@ -211,11 +211,11 @@ Card ID,Card Name,Card Type
 82377606,Ally of Justice Unlimiter,Effect Monster
 59482302,Ally Salvo,Effect Monster
 92998610,Aloof Lupine,Effect Monster
-77797992,,Alpacaribou,, Mystical Beast of the Forest,,Effect Monster
+77797992,"Alpacaribou, Mystical Beast of the Forest",Effect Monster
 42023223,Alpha The Electromagnet Warrior,Effect Monster
 99785935,Alpha the Magnet Warrior,Normal Monster
-73304257,,Alpha,, the Master of Beasts,,Effect Monster
-10406322,,Alsei,, the Sylvan High Protector,,XYZ Monster
+73304257,"Alpha, the Master of Beasts",Effect Monster
+10406322,"Alsei, the Sylvan High Protector",XYZ Monster
 21070956,Altar for Tribute,Trap Card
 80143954,Altergeist Camouflage,Trap Card
 21187631,Altergeist Dragvirion,Synchro Monster
@@ -290,7 +290,7 @@ Card ID,Card Name,Card Type
 77972406,Ambush Fangs,Trap Card
 95174353,Ameba,Effect Monster
 40213117,Amores of Prophecy,Effect Monster
-98287529,,Amorphactor Pain,, the Imagination Dracoverlord,,Ritual Effect Monster
+98287529,"Amorphactor Pain, the Imagination Dracoverlord",Ritual Effect Monster
 33300669,Amorphage Envy,Pendulum Effect Monster
 34522216,Amorphage Gluttony,Pendulum Effect Monster
 69072185,Amorphage Goliath,Pendulum Effect Monster
@@ -309,7 +309,7 @@ Card ID,Card Name,Card Type
 303660,Amplifier,Spell Card
 75380687,Amulet Dragon,Fusion Monster
 5183693,Amulet of Ambition,Spell Card
-100416008,,Amunesia,, Queen of the Abhyss,,Effect Monster
+100416008,"Amunesia, Queen of the Abhyss",Effect Monster
 23927567,An Owl of Luck,Flip Effect Monster
 19763315,An Unfortunate Report,Trap Card
 58324930,Anarchist Monk Ranshin,Effect Monster
@@ -412,7 +412,7 @@ Card ID,Card Name,Card Type
 41098335,Ape Fighter,Effect Monster
 31975743,Ape Magician,Effect Monster
 41158734,Apocatequil,Effect Monster
-4280258,,Apollousa,, Bow of the Goddess,,Link Monster
+4280258,"Apollousa, Bow of the Goddess",Link Monster
 40061558,Apoqliphort Skybase,Effect Monster
 27279764,Apoqliphort Towers,Effect Monster
 91392974,Apparition,Trap Card
@@ -478,7 +478,7 @@ Card ID,Card Name,Card Type
 92039899,Archfiend Cavalry,Effect Monster
 68371799,Archfiend Commander,Effect Monster
 57624336,Archfiend Eccentrick,Pendulum Effect Monster
-28423537,,Archfiend Emperor,, the First Lord of Horror,,Effect Monster
+28423537,"Archfiend Emperor, the First Lord of Horror",Effect Monster
 31766317,Archfiend Empress,Effect Monster
 48675364,Archfiend General,Effect Monster
 84341431,Archfiend Giant,Effect Monster
@@ -503,12 +503,12 @@ Card ID,Card Name,Card Type
 6728559,Archnemeses Protos,Effect Monster
 38173725,Arcjet Lightcraft,Effect Monster
 40502912,Aria the Melodious Diva,Effect Monster
-56827051,,Ariel,, Priestess of the Nekroz,,Effect Monster
+56827051,"Ariel, Priestess of the Nekroz",Effect Monster
 29904964,Arisen Gaia the Fierce Knight,Effect Monster
 33282498,Arkbrave Dragon,Effect Monster
 14708569,Arlownay,Normal Monster
 36151751,Arma Knight,Normal Monster
-88033975,,Armades,, Keeper of Boundaries,,Synchro Monster
+88033975,"Armades, Keeper of Boundaries",Synchro Monster
 28493337,Armageddon Designator,Trap Card
 28985331,Armageddon Knight,Effect Monster
 53153481,Armaill,Normal Monster
@@ -531,7 +531,7 @@ Card ID,Card Name,Card Type
 29330706,Armed Protector Dragon,Effect Monster
 84430950,Armed Samurai - Ben Kei,Effect Monster
 20470500,Armed Sea Hunter,Effect Monster
-36768783,,Armillyre,, the Starleader Dragon,,Link Monster
+36768783,"Armillyre, the Starleader Dragon",Link Monster
 43378048,Armityle the Chaos Phantasm,Fusion Monster
 60110982,Armityle the Chaos Phantasm - Phantom of Fury,Fusion Monster
 79155167,Armor Blast,Spell Card
@@ -557,7 +557,7 @@ Card ID,Card Name,Card Type
 29071332,Armory Arm,Synchro Monster
 38960450,Armory Call,Trap Card
 22493812,Army Ant Token,Token
-29687169,,Arnis,, the Empowered Warrior,,Effect Monster
+29687169,"Arnis, the Empowered Warrior",Effect Monster
 5050644,Aroma Garden,Spell Card
 29189613,Aroma Gardening,Spell Card
 21452275,Aroma Jar,Flip Effect Monster
@@ -572,13 +572,13 @@ Card ID,Card Name,Card Type
 21200905,Aromaseraphy Jasmine,Link Monster
 38148100,Aromaseraphy Rosemary,Synchro Monster
 79656239,Aromaseraphy Sweet Marjoram,Synchro Monster
-100416007,,Aron,, King of the Abhyss,,Effect Monster
+100416007,"Aron, King of the Abhyss",Effect Monster
 69296555,Array of Revealing Light,Spell Card
 29508346,Arrivalrivals,Spell Card
 42364374,Arsenal Bug,Effect Monster
 55348096,Arsenal Robber,Trap Card
 85489096,Arsenal Summoner,Flip Effect Monster
-34755994,,Artemis,, the Magistus Moon Maiden,,Link Monster
+34755994,"Artemis, the Magistus Moon Maiden",Link Monster
 11475049,Artifact Achilleshield,Effect Monster
 85080444,Artifact Aegis,Effect Monster
 12697630,Artifact Beagalltach,Effect Monster
@@ -597,8 +597,8 @@ Card ID,Card Name,Card Type
 69304426,Artifact Vajra,Effect Monster
 56611470,Artifacts Unleashed,Spell Card
 7913375,Artillery Catapult Turtle,Effect Monster
-21223277,,Artorigus,, King of the Noble Knights,,XYZ Monster
-71821687,,Ascator,, Dawnwalker,,Effect Monster
+21223277,"Artorigus, King of the Noble Knights",XYZ Monster
+71821687,"Ascator, Dawnwalker",Effect Monster
 88301833,Ascending Soul,Spell Card
 37910722,Ascension Sky Dragon,Synchro Monster
 27821104,Asceticism of the Six Samurai,Spell Card
@@ -652,11 +652,11 @@ Card ID,Card Name,Card Type
 46083380,Attraffic Control,Spell Card
 59048135,Augmented Heraldry,Spell Card
 4709881,Auram the World Chalice Blademaster,Link Monster
-7183277,,Aurkus,, Lightsworn Druid,,Effect Monster
+7183277,"Aurkus, Lightsworn Druid",Effect Monster
 22386234,Aurora Paragon,Effect Monster
 70089580,Aurora Wing,Effect Monster
 37970940,Aussa the Earth Charmer,Flip Effect Monster
-97661969,,Aussa the Earth Charmer,, Immovable,,Link Monster
+97661969,"Aussa the Earth Charmer, Immovable",Link Monster
 58990631,Automatic Laser,Trap Card
 71453557,Autonomous Action Unit,Spell Card
 80250185,Autorokket Dragon,Effect Monster
@@ -665,7 +665,7 @@ Card ID,Card Name,Card Type
 99284890,Avatar of The Pot,Effect Monster
 91420202,Avendread Savior,Link Monster
 69514125,Avenging Knight Parshath,Synchro Monster
-17469113,,Avida,, Rebuilder of Worlds,,Effect Monster
+17469113,"Avida, Rebuilder of Worlds",Effect Monster
 82832464,Awakening of Nephthys,Trap Card
 62256492,Awakening of the Possessed,Spell Card
 74426895,Awakening of the Possessed - Gagigobyte,Effect Monster
@@ -679,7 +679,7 @@ Card ID,Card Name,Card Type
 48305365,Axe Raider,Normal Monster
 42969214,Aye-Iron,Effect Monster
 42502956,Ayers Rock Sunrise,Spell Card
-75081613,,Aztekipede,, the Worm Warrior,,Effect Monster
+75081613,"Aztekipede, the Worm Warrior",Effect Monster
 40908371,Azure-Eyes Silver Dragon,Synchro Monster
 77411244,B-Buster Drake,Union Effect Monster
 89832901,B. Dragon Jungle King,Normal Monster
@@ -730,8 +730,8 @@ Card ID,Card Name,Card Type
 10012614,Banner of Courage,Spell Card
 48814566,Banquet of Millions,Trap Card
 55705473,Baobaboon,Effect Monster
-81992475,,Barbar,, Malebranche of the Burning Abyss,,Effect Monster
-54702678,,Barbaroid,, the Ultimate Battle Machine,,Fusion Monster
+81992475,"Barbar, Malebranche of the Burning Abyss",Effect Monster
+54702678,"Barbaroid, the Ultimate Battle Machine",Fusion Monster
 41925941,Bark of Dark Ruler,Trap Card
 11813722,Barkion's Bark,Spell Card
 86325596,Baron of the Fiend Sword,Normal Monster
@@ -753,7 +753,7 @@ Card ID,Card Name,Card Type
 69167267,Basal Rose Shoot,Spell Card
 88610708,Bashing Shield,Spell Card
 89091579,Basic Insect,Normal Monster
-81344637,,Basilius,, Familiar of the Evil Eye,,Effect Monster
+81344637,"Basilius, Familiar of the Evil Eye",Effect Monster
 72076281,Bat,Normal Monster
 61181383,Battery Charger,Spell Card
 60549248,Batteryman 9-Volt,Effect Monster
@@ -812,8 +812,8 @@ Card ID,Card Name,Card Type
 68144350,Battlin' Boxer Switchitter,Effect Monster
 13313278,Battlin' Boxer Veil,Effect Monster
 36916401,Battlin' Boxing Spirits,Spell Card
-83755611,,Baxia,, Brightness of the Yang Zing,,Synchro Monster
-47474172,,Bayonater,, the Baneful Barrel,,Effect Monster
+83755611,"Baxia, Brightness of the Yang Zing",Synchro Monster
+47474172,"Bayonater, the Baneful Barrel",Effect Monster
 36092504,Bayonet Punisher,Spell Card
 40133511,Bazoo the Soul-Eater,Effect Monster
 50371210,Beacon of White,Spell Card
@@ -836,10 +836,10 @@ Card ID,Card Name,Card Type
 81933259,Beastly Mirror Ritual,Spell Card
 300302006,Beasts of Phantom,Skill Card
 99011763,Beat Cop from the Underworld,Link Monster
-93850652,,Beat,, Bladesman Fur Hire,,Effect Monster
+93850652,"Beat, Bladesman Fur Hire",Effect Monster
 300202002,Beatdown!,Skill Card
 46924949,Beatraptor,Effect Monster
-27552504,,Beatrice,, Lady of the Eternal,,XYZ Monster
+27552504,"Beatrice, Lady of the Eternal",XYZ Monster
 29616941,Beautiful Beast Trainer,Normal Monster
 16899564,Beautiful Headhuntress,Normal Monster
 6625096,Beautunaful Princess,Effect Monster
@@ -853,10 +853,10 @@ Card ID,Card Name,Card Type
 30587695,Beetron,Effect Monster
 6628343,Beginning Knight,Effect Monster
 32360466,Beginning of Heaven and Earth,Trap Card
-20374520,,Begone,, Knave!,,Trap Card
+20374520,"Begone, Knave!",Trap Card
 94022093,Behegon,Normal Monster
 22996376,Behemoth the King of All Animals,Effect Monster
-33731070,,Beiige,, Vanguard of Dark World,,Effect Monster
+33731070,"Beiige, Vanguard of Dark World",Effect Monster
 33655493,Belial - Marquis of Darkness,Effect Monster
 22953211,Bellcat Fighter,Link Monster
 94662235,Bending Destiny,Trap Card
@@ -874,7 +874,7 @@ Card ID,Card Name,Card Type
 42901635,Berserkion the Electromagna Warrior,Effect Monster
 79418928,Beta The Electromagnet Warrior,Effect Monster
 39256679,Beta the Magnet Warrior,Normal Monster
-66500065,,Bi'an,, Earth of the Yang Zing,,Effect Monster
+66500065,"Bi'an, Earth of the Yang Zing",Effect Monster
 25655502,Bickuribox,Fusion Monster
 58685438,Bicorn Re'em,Effect Monster
 83392426,Bicular,Effect Monster
@@ -896,7 +896,7 @@ Card ID,Card Name,Card Type
 80088625,Binary Blader,Link Monster
 79016563,Binary Sorceress,Link Monster
 8058240,Binding Chain,Normal Monster
-93437091,,Bingo Machine,, Go!!!,,Spell Card
+93437091,"Bingo Machine, Go!!!",Spell Card
 7670542,Bio Plant,Normal Monster
 58696829,Bio-Mage,Normal Monster
 74130411,Biofalcon,Effect Monster
@@ -909,7 +909,7 @@ Card ID,Card Name,Card Type
 44702857,Bitelon,Effect Monster
 36211150,Bitron,Normal Monster
 36694815,Bitrooper,Effect Monster
-2095764,,Bixi,, Water of the Yang Zing,,Effect Monster
+2095764,"Bixi, Water of the Yang Zing",Effect Monster
 31677606,Black and White Wave,Spell Card
 50896944,Black Brachios,Effect Monster
 96029574,Black Brutdrago,Synchro Monster
@@ -952,7 +952,7 @@ Card ID,Card Name,Card Type
 9012916,Black-Winged Dragon,Synchro Monster
 67779172,Black-Winged Strafe,Spell Card
 44028461,Blackback,Trap Card
-67647362,,Blackbeard,, the Plunder Patroll Captain,,Link Monster
+67647362,"Blackbeard, the Plunder Patroll Captain",Link Monster
 80254726,Blackbird Close,Trap Card
 53519297,Blackboost,Trap Card
 60992105,Blackfeather Darkrage Dragon,Synchro Monster
@@ -1019,13 +1019,13 @@ Card ID,Card Name,Card Type
 21051146,Blast Magician,Effect Monster
 26302522,Blast Sphere,Effect Monster
 98239899,Blast with Chain,Trap Card
-53804307,,Blaster,, Dragon Ruler of Infernos,,Effect Monster
+53804307,"Blaster, Dragon Ruler of Infernos",Effect Monster
 99788587,Blasting Fuse,Trap Card
 21466326,Blasting the Ruins,Trap Card
 69537999,Blaze Accelerator,Spell Card
 52198054,Blaze Accelerator Reload,Trap Card
 4059313,Blaze Cannon,Spell Card
-6602300,,Blaze Fenix,, the Burning Bombardment Bird,,Fusion Monster
+6602300,"Blaze Fenix, the Burning Bombardment Bird",Fusion Monster
 16984449,Blazewing Butterfly,Gemini Monster
 92518817,Blazing Hiita,Effect Monster
 5464695,Blazing Inpachi,Normal Monster
@@ -1044,7 +1044,7 @@ Card ID,Card Name,Card Type
 28348537,Blizzard Princess,Effect Monster
 50920465,Blizzard Thunderbird,Effect Monster
 96565487,Blizzard Warrior,Effect Monster
-60161788,,Blizzed,, Defender of the Ice Barrier,,Effect Monster
+60161788,"Blizzed, Defender of the Ice Barrier",Effect Monster
 25880422,Block Attack,Spell Card
 94689206,Block Dragon,Effect Monster
 72580321,Block Golem,Effect Monster
@@ -1085,7 +1085,7 @@ Card ID,Card Name,Card Type
 23995346,Blue-Eyes Ultimate Dragon,Fusion Monster
 89631139,Blue-Eyes White Dragon,Normal Monster
 41396436,Blue-Winged Crown,Normal Monster
-55349375,,Bluebeard,, the Plunder Patroll Shipwright,,Effect Monster
+55349375,"Bluebeard, the Plunder Patroll Shipwright",Effect Monster
 22346472,Blustering Winds,Spell Card
 40634253,BM-4 Blast Spider,Effect Monster
 21340051,Boar Soldier,Effect Monster
@@ -1161,7 +1161,7 @@ Card ID,Card Name,Card Type
 30548775,Branch!,Spell Card
 74277583,Brave Scizzar,Normal Monster
 88305705,Brave-Eyes Pendulum Dragon,Fusion Monster
-66740005,,Bravo,, Fighter Fur Hire,,Effect Monster
+66740005,"Bravo, Fighter Fur Hire",Effect Monster
 9852718,Break Away,Trap Card
 56526564,Break Off Trap Hole,Trap Card
 63851864,Break! Draw!,Spell Card
@@ -1179,7 +1179,7 @@ Card ID,Card Name,Card Type
 7394770,Brilliant Fusion,Spell Card
 3105404,Brilliant Spark,Trap Card
 2102065,Brinegir,Effect Monster
-50321796,,Brionac,, Dragon of the Ice Barrier,,Synchro Monster
+50321796,"Brionac, Dragon of the Ice Barrier",Synchro Monster
 27217742,Brohunder,Effect Monster
 41587307,Broken Bamboo Sword,Spell Card
 60930169,Broken Blocker,Trap Card
@@ -1212,8 +1212,8 @@ Card ID,Card Name,Card Type
 93877990,Brotherhood of the Fire Fist - Swan,Fusion Monster
 96381979,Brotherhood of the Fire Fist - Tiger King,XYZ Monster
 93294869,Brotherhood of the Fire Fist - Wolf,Effect Monster
-79126789,,Broww,, Huntsman of Dark World,,Effect Monster
-6214884,,Brron,, Mad King of Dark World,,Effect Monster
+79126789,"Broww, Huntsman of Dark World",Effect Monster
+6214884,"Brron, Mad King of Dark World",Effect Monster
 36569343,Brushfire Knight,Effect Monster
 36809777,Brutal Beast Battle,Trap Card
 30155789,Brutal Potion,Trap Card
@@ -1272,7 +1272,7 @@ Card ID,Card Name,Card Type
 86690572,Burgeoning Whirlflame,Trap Card
 6297941,Burglar,Normal Monster
 48976825,Burial from a Different Dimension,Spell Card
-53797637,,Burner,, Dragon Ruler of Sparks,,Effect Monster
+53797637,"Burner, Dragon Ruler of Sparks",Effect Monster
 41859700,Burning Algae,Effect Monster
 55870497,Burning Bamboo Sword,Spell Card
 59364406,Burning Beast,Union Effect Monster
@@ -1287,8 +1287,8 @@ Card ID,Card Name,Card Type
 17655904,Burst Stream of Destruction,Spell Card
 42429678,Bururu @Ignister,Effect Monster
 78193831,Buster Blader,Effect Monster
-3428069,,Buster Blader,, the Destruction Swordmaster,,Effect Monster
-86240887,,Buster Blader,, the Dragon Destroyer Swordsman,,Fusion Monster
+3428069,"Buster Blader, the Destruction Swordmaster",Effect Monster
+86240887,"Buster Blader, the Dragon Destroyer Swordsman",Fusion Monster
 63676256,Buster Blaster,Union Effect Monster
 11790356,Buster Dragon,Synchro Monster
 4998619,Buster Gundil the Cubic Behemoth,Effect Monster
@@ -1304,14 +1304,14 @@ Card ID,Card Name,Card Type
 36935434,Byroad Sacrifice,Trap Card
 17597059,Byser Shock,Effect Monster
 3405259,C-Crush Wyvern,Union Effect Monster
-91449144,,Caam,, Serenity of Gusto,,Effect Monster
+91449144,"Caam, Serenity of Gusto",Effect Monster
 31615285,Cactus Bouncer,Effect Monster
 74440055,Cactus Fighter,Effect Monster
-9342162,,Cagna,, Malebranche of the Burning Abyss,,Effect Monster
-21501505,,Cairngorgon,, Antiluminescent Knight,,XYZ Monster
+9342162,"Cagna, Malebranche of the Burning Abyss",Effect Monster
+21501505,"Cairngorgon, Antiluminescent Knight",XYZ Monster
 87288189,Caius the Mega Monarch,Effect Monster
 9748752,Caius the Shadow Monarch,Effect Monster
-73213494,,Calcab,, Malebranche of the Burning Abyss,,Effect Monster
+73213494,"Calcab, Malebranche of the Burning Abyss",Effect Monster
 67692580,Caligo Claw Crow,Effect Monster
 78637313,Call of Darkness,Trap Card
 97803170,Call of the Archfiend,Trap Card
@@ -1336,7 +1336,7 @@ Card ID,Card Name,Card Type
 55289183,Capricious Darklord,Effect Monster
 76722334,Capshell,Effect Monster
 37806313,Caravan of the Ice Barrier,Effect Monster
-15079028,,Carbon,, Cornerstone of Creation,,Effect Monster
+15079028,"Carbon, Cornerstone of Creation",Effect Monster
 15981690,Carboneddon,Effect Monster
 52112003,Card Advance,Spell Card
 42256406,Card Blocker,Effect Monster
@@ -1361,7 +1361,7 @@ Card ID,Card Name,Card Type
 32566831,Cards of the Red Stone,Spell Card
 46848859,Carrierroid,Effect Monster
 59957503,Cash Back,Trap Card
-82633039,,Castel,, the Skyblaster Musketeer,,XYZ Monster
+82633039,"Castel, the Skyblaster Musketeer",XYZ Monster
 36931229,Castle Gate,Effect Monster
 22198672,Castle Link,Spell Card
 62121,Castle of Dark Illusions,Flip Effect Monster
@@ -1381,19 +1381,19 @@ Card ID,Card Name,Card Type
 50690129,Catche Eve L2,Effect Monster
 96501677,Catnipped Kitty,Effect Monster
 54360049,Catoblepas and the Witch of Fate,Effect Monster
-45955628,,Catoblepas,, Familiar of the Evil Eye,,Effect Monster
+45955628,"Catoblepas, Familiar of the Evil Eye",Effect Monster
 50619462,Cattle Call,Spell Card
 91740879,Cauldron of the Old Man,Spell Card
 93220472,Cave Dragon,Effect Monster
 36468556,Ceasefire,Trap Card
 43912676,Celestia,Spell Card
-94381039,,Celestia,, Lightsworn Angel,,Effect Monster
+94381039,"Celestia, Lightsworn Angel",Effect Monster
 25472513,Celestial Double Star Shaman,Synchro Tuner Monster
 48589580,Celestial Knightlord Parshath,Link Monster
 67378104,Celestial Observatory,Spell Card
 55569674,Celestial Sword - Eatos,Spell Card
 28890974,Celestial Transformation,Spell Card
-32995007,,Celestial Wolf Lord,, Blue Sirius,,Synchro Monster
+32995007,"Celestial Wolf Lord, Blue Sirius",Synchro Monster
 84491298,Cell Explosion Virus,Trap Card
 45531624,Celtic Guard of Noble Arms,Effect Monster
 91152256,Celtic Guardian,Normal Monster
@@ -1404,7 +1404,7 @@ Card ID,Card Name,Card Type
 82340057,Ceremonial Token,Token
 24175232,Cerulean Sacred Phoenix of Nephthys,Ritual Effect Monster
 54828837,Cerulean Skyfire,Spell Card
-7623640,,Ceruli,, Guru of Dark World,,Effect Monster
+7623640,"Ceruli, Guru of Dark World",Effect Monster
 28106077,Cestus of Dagla,Spell Card
 83021423,Chachaka Archer,Effect Monster
 48276469,Chain Burst,Trap Card
@@ -1434,7 +1434,7 @@ Card ID,Card Name,Card Type
 18914778,Change Slime,Normal Monster
 25652655,Changer Synchron,Tuner Monster
 24673894,Changing Destiny,Trap Card
-19048328,,Chaofeng,, Phantom of the Yang Zing,,Synchro Monster
+19048328,"Chaofeng, Phantom of the Yang Zing",Synchro Monster
 51788412,Chaos Ancient Gear Giant,Fusion Monster
 34966096,Chaos Betrayer,Effect Monster
 4923662,Chaos Burst,Trap Card
@@ -1443,7 +1443,7 @@ Card ID,Card Name,Card Type
 26873574,Chaos Daedalus,Effect Monster
 55878039,Chaos Dragon Levianeer,Effect Monster
 82301904,Chaos Emperor Dragon - Envoy of the End,Effect Monster
-4538826,,Chaos Emperor,, the Dragon of Armageddon,,Pendulum Effect Monster
+4538826,"Chaos Emperor, the Dragon of Armageddon",Pendulum Effect Monster
 61044390,Chaos End,Spell Card
 21082832,Chaos Form,Spell Card
 31385077,Chaos Goddess,Synchro Monster
@@ -1453,7 +1453,7 @@ Card ID,Card Name,Card Type
 4081825,Chaos Infinity,Trap Card
 36407615,Chaos King Archfiend,Synchro Monster
 1434352,Chaos Necromancer,Effect Monster
-3040496,,Chaos Ruler,, the Chaotic Magical Dragon,,Synchro Monster
+3040496,"Chaos Ruler, the Chaotic Magical Dragon",Synchro Monster
 15256925,Chaos Scepter Blast,Spell Card
 76766706,Chaos Seed,Spell Card
 9596126,Chaos Sorcerer,Effect Monster
@@ -1480,22 +1480,22 @@ Card ID,Card Name,Card Type
 55100740,Chemicritter Hydron Hawk,Gemini Monster
 18993198,Chemicritter Oxy Ox,Gemini Monster
 525110,Cherry Inmato,Tuner Monster
-58699500,,Cherubini,, Ebon Angel of the Burning Abyss,,Link Monster
+58699500,"Cherubini, Ebon Angel of the Burning Abyss",Link Monster
 45037489,Chevalier de Fleur,Synchro Monster
 7392745,Chewbone,Flip Effect Monster
 7392746,Chewbone Jr. Token,Token
 67616300,Chicken Game,Spell Card
 12021072,Child's Play,Spell Card
-501000006,,Chimaera,, the Master of Beasts,,Effect Monster
+501000006,"Chimaera, the Master of Beasts",Effect Monster
 4796100,Chimera the Flying Mythical Beast,Fusion Monster
 79229522,Chimeratech Fortress Dragon,Fusion Monster
 87116928,Chimeratech Megafleet Dragon,Fusion Monster
 64599569,Chimeratech Overdragon,Fusion Monster
 84058253,Chimeratech Rampage Dragon,Fusion Monster
 16956455,Chiron the Mage,Effect Monster
-87294988,,Chirubime,, Princess of Autumn Leaves,,Effect Monster
+87294988,"Chirubime, Princess of Autumn Leaves",Effect Monster
 56532632,Chivalry,Trap Card
-61488417,,Chiwen,, Light of the Yang Zing,,Tuner Monster
+61488417,"Chiwen, Light of the Yang Zing",Tuner Monster
 27352108,Chobham Armor Dragon,Effect Monster
 7198399,Chocolate Magician Girl,Effect Monster
 40884383,Chopman the Desperate Outlaw,Effect Monster
@@ -1546,10 +1546,10 @@ Card ID,Card Name,Card Type
 98905,Cipher Spectrum,Trap Card
 21999001,Cipher Twin Raptor,Effect Monster
 81974607,Cipher Wing,Effect Monster
-57143342,,Cir,, Malebranche of the Burning Abyss,,Effect Monster
+57143342,"Cir, Malebranche of the Burning Abyss",Effect Monster
 59388357,Circle of the Fire Kings,Spell Card
 46290741,Citadel Whale,Effect Monster
-1482001,,Clara & Rushka,, the Ventriloduo,,Link Monster
+1482001,"Clara & Rushka, the Ventriloduo",Link Monster
 57496978,Clashing Souls,Spell Card
 41218256,Claw Reacher,Normal Monster
 22479888,Clay Charge,Trap Card
@@ -1561,7 +1561,7 @@ Card ID,Card Name,Card Type
 33900648,Clear World,Spell Card
 45778242,Cliant,Effect Monster
 8323633,Cloak and Dagger,Trap Card
-87468732,,Clock Arc,, the Fluctuerror Orchanism,,Pendulum Normal Monster
+87468732,"Clock Arc, the Fluctuerror Orchanism",Pendulum Normal Monster
 51476410,Clock Lizard,Link Monster
 77087109,Clock Resonator,Tuner Monster
 4478086,Clock Spartoi,Link Monster
@@ -1594,7 +1594,7 @@ Card ID,Card Name,Card Type
 86801871,Cobra Jar,Flip Effect Monster
 75109441,Cobraman Sakuzy,Effect Monster
 42338879,Cockadoodledoo,Tuner Monster
-94395649,,Cockathorium,, the Superheavy Shining Soarer,,Effect Monster
+94395649,"Cockathorium, the Superheavy Shining Soarer",Effect Monster
 33413638,Cockroach Knight,Effect Monster
 40240595,Cocoon of Evolution,Effect Monster
 77840540,Cocoon of Ultra Evolution,Spell Card
@@ -1629,7 +1629,7 @@ Card ID,Card Name,Card Type
 10375182,Command Knight,Effect Monster
 78184733,Command Performance,Trap Card
 22666164,Commander Covington,Effect Monster
-53388413,,Commander Gottoms,, Swordmaster,,Effect Monster
+53388413,"Commander Gottoms, Swordmaster",Effect Monster
 12197543,Commander of Swords,Trap Card
 43417563,Commencement Dance,Spell Card
 40465719,Common Charity,Trap Card
@@ -1645,7 +1645,7 @@ Card ID,Card Name,Card Type
 57093995,Condolence Puppet,Spell Card
 8454126,Conductor of Nephthys,Ritual Effect Monster
 17375316,Confiscation,Spell Card
-15721123,Confronting the \"C\",Effect Monster
+15721123,"Confronting the \""C\""",Effect Monster
 67630339,Confusion Chaff,Trap Card
 20590515,Conquistador of the Golden Land,Trap Card
 31000575,Conscription,Trap Card
@@ -1679,7 +1679,7 @@ Card ID,Card Name,Card Type
 14759024,Constellar Zubeneschamali,Effect Monster
 34475451,Construction Train Signal Red,Effect Monster
 16616620,Contact,Spell Card
-87170768,Contact \"C\",Effect Monster
+87170768,"Contact \""C\""",Effect Monster
 41933425,Contact Gate,Spell Card
 69270537,Contact Out,Spell Card
 83544697,Contact with Gusto,Spell Card
@@ -1710,7 +1710,7 @@ Card ID,Card Name,Card Type
 34290067,Corroding Shark,Normal Monster
 13235258,Corrosive Scales,Trap Card
 67949763,Corrupted Keys,Trap Card
-2561846,Corruption Cell \"A\",Spell Card
+2561846,"Corruption Cell \""A\""",Spell Card
 21123811,Cosmic Blazar Dragon,Synchro Monster
 27450400,Cosmic Compass,Effect Monster
 8267140,Cosmic Cyclone,Spell Card
@@ -1743,7 +1743,7 @@ Card ID,Card Name,Card Type
 67494157,Crawling Dragon,Normal Monster
 38289717,Crawling Dragon #2,Normal Monster
 53713014,Crazy Fish,Normal Monster
-96915510,,Crealtar,, the Impcantation Originator,,Ritual Effect Monster
+96915510,"Crealtar, the Impcantation Originator",Ritual Effect Monster
 5780210,Creation Resonator,Tuner Monster
 15305240,Creature Seizure,Spell Card
 31036355,Creature Swap,Spell Card
@@ -1774,8 +1774,8 @@ Card ID,Card Name,Card Type
 65681983,Crossout Designator,Spell Card
 72218246,Crossrose Dragon,Link Monster
 77998771,Crow Goblin,Normal Monster
-50756327,,Crowley,, the First Propheseer,,Link Monster
-9505425,,Crowley,, the Magistus of Grimoires,,Effect Monster
+50756327,"Crowley, the First Propheseer",Link Monster
+9505425,"Crowley, the Magistus of Grimoires",Effect Monster
 95511642,Crowned by the World Chalice,Normal Monster
 73853830,Crusader of Endymion,Gemini Monster
 91646304,Crusadia Arboria,Tuner Monster
@@ -1852,20 +1852,20 @@ Card ID,Card Name,Card Type
 1566817,Cupid Serve,Effect Monster
 11851647,Cupid Volley,Effect Monster
 85802526,Cure Mermaid,Effect Monster
-98095162,,Curious,, the Lightsworn Dominion,,Link Monster
+98095162,"Curious, the Lightsworn Dominion",Link Monster
 14509651,Curse Necrofear,Effect Monster
 41398771,Curse of Aging,Trap Card
 66742250,Curse of Anubis,Trap Card
 84970821,Curse of Darkness,Trap Card
 28279543,Curse of Dragon,Normal Monster
-61525276,,Curse of Dragon,, the Cursed Dragon,,Effect Monster
+61525276,"Curse of Dragon, the Cursed Dragon",Effect Monster
 7241272,Curse of Dragonfire,Effect Monster
 12470447,Curse of Fiend,Spell Card
 2926176,Curse of Royal,Trap Card
 12863633,Curse of the Circle,Trap Card
 94377247,Curse of the Masked Beast,Spell Card
 81788994,Curse of the Shadow Prison,Spell Card
-100416005,,Curse,, Dawn of the Abhyss,,Effect Monster
+100416005,"Curse, Dawn of the Abhyss",Effect Monster
 98867329,Cursed Armaments,Spell Card
 42199039,Cursed Bamboo Sword,Spell Card
 46967601,Cursed Bill,Spell Card
@@ -2093,7 +2093,7 @@ Card ID,Card Name,Card Type
 84766279,Daigusto Gulldos,Synchro Monster
 2766877,Daigusto Phoenix,XYZ Monster
 29552709,Daigusto Sphreez,Synchro Monster
-42542842,,Dakki,, the Graceful Mayakashi,,Tuner Monster
+42542842,"Dakki, the Graceful Mayakashi",Tuner Monster
 44584775,Damage = Reptile,Trap Card
 28378427,Damage Condenser,Trap Card
 95448692,Damage Diet,Trap Card
@@ -2127,14 +2127,14 @@ Card ID,Card Name,Card Type
 76895648,Dangerous Machine Type-6,Spell Card
 48588176,Danipon,Effect Monster
 66192538,Danmari @Ignister,Effect Monster
-18386170,,Dante,, Pilgrim of the Burning Abyss,,Fusion Monster
-83531441,,Dante,, Traveler of the Burning Abyss,,XYZ Monster
+18386170,"Dante, Pilgrim of the Burning Abyss",Fusion Monster
+83531441,"Dante, Traveler of the Burning Abyss",XYZ Monster
 97001138,Dark Advance,Trap Card
 34479658,Dark Alligator,Effect Monster
 28593329,Dark Angel,Effect Monster
 95685352,Dark Anthelion Dragon,XYZ Pendulum Effect Monster
 65192027,Dark Armed Dragon,Effect Monster
-78144171,,Dark Armed,, the Dragon of Annihilation,,XYZ Monster
+78144171,"Dark Armed, the Dragon of Annihilation",XYZ Monster
 72520073,Dark Artist,Effect Monster
 41949033,Dark Assailant,Normal Monster
 80071763,Dark Balter the Terrible,Fusion Monster
@@ -2274,7 +2274,7 @@ Card ID,Card Name,Card Type
 45895206,Dark-Piercing Light,Spell Card
 35798491,Darkbishop Archfiend,Effect Monster
 39343610,Darkblaze Dragon,Effect Monster
-50383626,,Darkest Diabolos,, Lord of the Lair,,Effect Monster
+50383626,"Darkest Diabolos, Lord of the Lair",Effect Monster
 30127518,Darkfall,Trap Card
 17881964,Darkfire Dragon,Fusion Monster
 5388481,Darkfire Soldier #1,Normal Monster
@@ -2303,7 +2303,7 @@ Card ID,Card Name,Card Type
 40921744,Darklord Zerato,Effect Monster
 80168720,Darkness Approaches,Spell Card
 93709215,Darkness Destroyer,Effect Monster
-79266769,,Darkness Metal,, the Dragon of Dark Steel,,Link Monster
+79266769,"Darkness Metal, the Dragon of Dark Steel",Link Monster
 60417395,Darkness Neosphere,Effect Monster
 76925842,Darknight Parshath,Effect Monster
 70054514,Darksea Float,Effect Monster
@@ -2358,7 +2358,7 @@ Card ID,Card Name,Card Type
 51782995,Defender of Nephthys,Effect Monster
 82498947,Defender of the Ice Barrier,Tuner Monster
 31897444,Defender of the Labyrinth,Link Monster
-2525268,,Defender,, the Magical Knight,,Effect Monster
+2525268,"Defender, the Magical Knight",Effect Monster
 71417170,Defenders Intersect,Trap Card
 24268052,Defense Draw,Trap Card
 59687381,Defense Zone,Spell Card
@@ -2376,11 +2376,11 @@ Card ID,Card Name,Card Type
 12262393,Delta The Magnet Warrior,Effect Monster
 12079734,Delta Tri,Effect Monster
 48934760,Demise of the Land,Spell Card
-86124104,,Demise,, Agent of Armageddon,,Ritual Effect Monster
-72426662,,Demise,, King of Armageddon,,Ritual Effect Monster
-59913418,,Demise,, Supreme King of Armageddon,,Ritual Effect Monster
+86124104,"Demise, Agent of Armageddon",Ritual Effect Monster
+72426662,"Demise, King of Armageddon",Ritual Effect Monster
+59913418,"Demise, Supreme King of Armageddon",Ritual Effect Monster
 72575145,Demotion,Spell Card
-65536818,,Denglong,, First of the Yang Zing,,Synchro Tuner Monster
+65536818,"Denglong, First of the Yang Zing",Synchro Tuner Monster
 13974207,Denko Sekka,Effect Monster
 8279188,Depth Amulet,Trap Card
 37798171,Depth Shark,Effect Monster
@@ -2470,17 +2470,17 @@ Card ID,Card Name,Card Type
 5560911,Destrudo the Lost Dragon's Frisson,Tuner Monster
 89086566,Detonate,Spell Card
 24487411,Detonate Deleter,Link Monster
-20985997,Detonator Circle \"A\",Trap Card
+20985997,"Detonator Circle \""A\""",Trap Card
 85771021,Deus Token,Token
 62587693,Deus X-Krawler,Effect Monster
 88176533,Devotee of Nephthys,Ritual Effect Monster
 90311614,Dewdark of the Ice Barrier,Tuner Monster
-70583986,,Dewloren,, Tiger King of the Ice Barrier,,Synchro Monster
+70583986,"Dewloren, Tiger King of the Ice Barrier",Synchro Monster
 32302078,Dhampir Vampire Sheridan,XYZ Monster
 19327348,Dharc the Dark Charmer,Flip Effect Monster
 96967123,Dharma Cannon,Normal Monster
 88757791,Dharma-Eye Magician,Pendulum Effect Monster
-29424328,,Diabolos,, King of the Abyss,,Effect Monster
+29424328,"Diabolos, King of the Abyss",Effect Monster
 51644030,Diabound Kernel,Effect Monster
 81994591,Diamond Core of Koa'ki Meiru,Spell Card
 95169481,Diamond Dire Wolf,XYZ Monster
@@ -2519,7 +2519,7 @@ Card ID,Card Name,Card Type
 12615446,Digital Bug Scaradiator,XYZ Monster
 94344242,Digital Bug Websolder,Effect Monster
 32295838,Digitron,Normal Monster
-29515122,,Digvorzhak,, King of Heavy Industry,,XYZ Monster
+29515122,"Digvorzhak, King of Heavy Industry",XYZ Monster
 23732205,Dillingerous Dragon,Link Monster
 95194279,Dimension Distortion,Spell Card
 1896112,Dimension Explosion,Spell Card
@@ -2542,11 +2542,11 @@ Card ID,Card Name,Card Type
 98666339,Dimensional Inversion,Trap Card
 70342110,Dimensional Prison,Trap Card
 22959079,Dimensionhole,Spell Card
-93854893,,Dingirsu,, the Orcust of the Evening Star,,XYZ Monster
+93854893,"Dingirsu, the Orcust of the Evening Star",XYZ Monster
 300104003,Dino Destruction,Skill Card
 27143874,Dino-Sewing,Effect Monster
 41128647,Dinomic Powerload,Spell Card
-58984738,,Dinomight Knight,, the True Dracofighter,,Effect Monster
+58984738,"Dinomight Knight, the True Dracofighter",Effect Monster
 32134638,Dinomist Ankylos,Pendulum Effect Monster
 368382,Dinomist Brachion,Pendulum Effect Monster
 37752990,Dinomist Ceratops,Pendulum Effect Monster
@@ -2560,7 +2560,7 @@ Card ID,Card Name,Card Type
 1580833,Dinomist Stegosaur,Pendulum Effect Monster
 60675348,Dinomists Howling,Trap Card
 300203001,Dinosaur Kingdom,Skill Card
-22638495,,Dinoster Power,, the Mighty Dracoslayer,,Fusion Monster
+22638495,"Dinoster Power, the Mighty Dracoslayer",Fusion Monster
 93507434,Dinowrestler Capaptera,Effect Monster
 29996433,Dinowrestler Capoeiraptor,Effect Monster
 22900219,Dinowrestler Chimera T Wrextle,Fusion Monster
@@ -2637,21 +2637,21 @@ Card ID,Card Name,Card Type
 59724555,Dodododwarf Gogogoglove,Effect Monster
 29491335,DOG Fighter Token,Token
 1003028,Doggy Diver,Effect Monster
-33296432,,Dogmatika Adin,, the Enlightened,,Effect Monster
+33296432,"Dogmatika Adin, the Enlightened",Effect Monster
 40352445,Dogmatika Albaz Knight,Ritual Effect Monster
 13694209,Dogmatika Ashiyan,Effect Monster
-60303688,,Dogmatika Ecclesia,, the Virtuous,,Effect Monster
+60303688,"Dogmatika Ecclesia, the Virtuous",Effect Monster
 29354228,Dogmatika Encounter,Trap Card
-69680031,,Dogmatika Fleurdelis,, the Knighted,,Effect Monster
+69680031,"Dogmatika Fleurdelis, the Knighted",Effect Monster
 56588755,Dogmatika Genesis,Trap Card
 95679145,Dogmatika Maximus,Effect Monster
 65589010,Dogmatika Nation,Spell Card
 22073844,Dogmatika Nexus,Effect Monster
 82956214,Dogmatika Punishment,Trap Card
-96891787,,Dogmatika Theo,, the Iron Punch,,Effect Monster
+96891787,"Dogmatika Theo, the Iron Punch",Effect Monster
 87481592,Dogmatikacism,Spell Card
 31002402,Dogmatikas,Spell Card
-93332803,,Dogoran,, the Mad Flame Kaiju,,Effect Monster
+93332803,"Dogoran, the Mad Flame Kaiju",Effect Monster
 95816395,Dogu,Effect Monster
 57062206,Doitsu,Union Effect Monster
 42143067,Doki Doki,Effect Monster
@@ -2667,7 +2667,7 @@ Card ID,Card Name,Card Type
 93238626,Don Thousand's Throne,Spell Card
 3493978,Don Turtle,Effect Monster
 76922029,Don Zaloog,Effect Monster
-94073244,,Donpa,, Marksman Fur Hire,,Effect Monster
+94073244,"Donpa, Marksman Fur Hire",Effect Monster
 14146794,Donyoribo @Ignister,Effect Monster
 10389794,Doom Donuts,Flip Effect Monster
 76039636,Doom Dozer,Effect Monster
@@ -2719,7 +2719,7 @@ Card ID,Card Name,Card Type
 41927278,Double-Edged Sword,Spell Card
 21007444,Double-Edged Sword Technique,Trap Card
 23971061,Doublebyte Dragon,Link Monster
-76382116,,Dovelgus,, Generaider Boss of Iron,,Effect Monster
+76382116,"Dovelgus, Generaider Boss of Iron",Effect Monster
 96540,Downbeat,Spell Card
 72167543,Downerd Magician,XYZ Monster
 72490637,Dowsing Fusion,Spell Card
@@ -2736,9 +2736,9 @@ Card ID,Card Name,Card Type
 4918855,Draculea Vampire,Effect Monster
 65737274,Dragard,Effect Monster
 16435215,Dragged Down into the Grave,Spell Card
-45593826,,Draghig,, Malebranche of the Burning Abyss,,Effect Monster
+45593826,"Draghig, Malebranche of the Burning Abyss",Effect Monster
 21435914,Dragocytos Corrupted Nethersoul Dragon,Synchro Monster
-65472618,,Dragodies,, the Empowered Warrior,,Pendulum Effect Monster
+65472618,"Dragodies, the Empowered Warrior",Pendulum Effect Monster
 76218313,Dragon Buster Destruction Sword,Tuner Monster
 300202003,Dragon Caller,Skill Card
 50045299,Dragon Capture Jar,Trap Card
@@ -2793,7 +2793,7 @@ Card ID,Card Name,Card Type
 14625090,Dragonmaid Welcome,Spell Card
 28053763,Dragonoid Generator,Spell Card
 28053764,Dragonoid Token,Token
-92870717,,Dragonox,, the Empowered Warrior,,Pendulum Effect Monster
+92870717,"Dragonox, the Empowered Warrior",Pendulum Effect Monster
 51531505,Dragonpit Magician,Pendulum Normal Monster
 15146890,Dragonpulse Magician,Pendulum Normal Monster
 73779005,Dragoons of Draconia,Pendulum Normal Monster
@@ -2855,7 +2855,7 @@ Card ID,Card Name,Card Type
 81038234,Dream Mirror Recap,Trap Card
 26920296,Dreamland,Spell Card
 8687195,Dreamsprite,Effect Monster
-94982447,,Dreiath III,, the True Dracocavalry General,,Effect Monster
+94982447,"Dreiath III, the True Dracocavalry General",Effect Monster
 78161361,Dribrave,Effect Monster
 28265983,Dried Winds,Trap Card
 24137081,Drill Barnacle,Effect Monster
@@ -2900,11 +2900,11 @@ Card ID,Card Name,Card Type
 43803845,Duck Dummy,Gemini Monster
 54813225,Duck Fighter,Effect Monster
 14506878,DUCKER Mobile Cannon,Flip Effect Monster
-60025883,,Duel Link Dragon,, the Duel Dragon,,Link Monster
+60025883,"Duel Link Dragon, the Duel Dragon",Link Monster
 37469904,Duelist Alliance,Spell Card
 37880706,Duelittle Chimera,Link Monster
 19162134,Dueltaining,Spell Card
-12766474,,Duke Shade,, the Sinister Shadow Lord,,Effect Monster
+12766474,"Duke Shade, the Sinister Shadow Lord",Effect Monster
 13532663,Dummy Golem,Flip Effect Monster
 12493482,Dunames Dark Witch,Normal Monster
 51228280,Dungeon Worm,Normal Monster
@@ -2922,7 +2922,7 @@ Card ID,Card Name,Card Type
 46508640,Dweller in the Depths,Effect Monster
 46984349,Dwimmered Glimmer,Trap Card
 24721709,Dwimmered Path,Spell Card
-25123713,,Dyna,, Hero Fur Hire,,Effect Monster
+25123713,"Dyna, Hero Fur Hire",Effect Monster
 7409792,Dynatherium,Effect Monster
 52085072,Dystopia the Despondent,Effect Monster
 6330307,DZW - Chimera Clad,Effect Monster
@@ -2961,7 +2961,7 @@ Card ID,Card Name,Card Type
 16825874,Eccentric Boy,Tuner Monster
 15582767,Echo Oscillation,Trap Card
 51858306,Eclipse Wyvern,Effect Monster
-4192696,,Eco,, Mystical Spirit of the Forest,,Effect Monster
+4192696,"Eco, Mystical Spirit of the Forest",Effect Monster
 97342942,Ectoplasmer,Spell Card
 300101001,Ectoplasmic Fortification!,Skill Card
 96352326,Eda the Sun Magician,Effect Monster
@@ -2979,7 +2979,7 @@ Card ID,Card Name,Card Type
 73178098,Ego Boost,Spell Card
 96914272,Egotistical Ape,Tuner Monster
 42166000,Egyptian God Slime,Fusion Monster
-44178886,,Ehren,, Lightsworn Monk,,Effect Monster
+44178886,"Ehren, Lightsworn Monk",Effect Monster
 96570609,Ehther the Heavenly Monarch,Effect Monster
 59463312,Eidos the Underworld Squire,Effect Monster
 40844553,Einherjar Token,Token
@@ -2994,7 +2994,7 @@ Card ID,Card Name,Card Type
 74822425,El Shaddoll Shekhinaga,Fusion Monster
 74009824,El Shaddoll Wendigo,Fusion Monster
 94977269,El Shaddoll Winda,Fusion Monster
-92223430,,Elborz,, the Sacred Lands of Simorgh,,Spell Card
+92223430,"Elborz, the Sacred Lands of Simorgh",Spell Card
 6367785,Eldeen,Normal Monster
 80532587,Elder Entity N'tss,Fusion Monster
 17412721,Elder Entity Norden,Fusion Monster
@@ -3143,9 +3143,9 @@ Card ID,Card Name,Card Type
 7845138,Endless Decay,Effect Monster
 300302007,Endless Traps,Skill Card
 65342096,Endymion's Lab,Spell Card
-9482987,,Endymion,, the Magistus of Mastery,,Effect Monster
-40732515,,Endymion,, the Master Magician,,Effect Monster
-3611830,,Endymion,, the Mighty Master of Magic,,Pendulum Effect Monster
+9482987,"Endymion, the Magistus of Mastery",Effect Monster
+40732515,"Endymion, the Master Magician",Effect Monster
+3611830,"Endymion, the Mighty Master of Magic",Pendulum Effect Monster
 98045062,Enemy Controller,Spell Card
 72631243,Energy Bravery,Effect Monster
 56916805,Energy Drain,Trap Card
@@ -3153,7 +3153,7 @@ Card ID,Card Name,Card Type
 26022485,Enervating Mist,Trap Card
 82556059,Engine Token,Token
 50078320,Engraver of the Mark,Effect Monster
-38280762,,Enishi,, Shien's Chancellor,,Effect Monster
+38280762,"Enishi, Shien's Chancellor",Effect Monster
 57274196,Enlightenment,Trap Card
 59123194,Enlightenment Paladin,Synchro Monster
 32120116,Enma's Judgment,Trap Card
@@ -3165,7 +3165,7 @@ Card ID,Card Name,Card Type
 54974237,Eradicator Epidemic Virus,Trap Card
 23064604,Erebus the Underworld Monarch,Effect Monster
 74364659,Eria the Water Charmer,Flip Effect Monster
-73309655,,Eria the Water Charmer,, Gentle,,Link Monster
+73309655,"Eria the Water Charmer, Gentle",Link Monster
 7407724,Erica the Rikka Fairy,Effect Monster
 18235309,Escalation of the Monarchs,Trap Card
 31550470,Escape from the Dark Dimension,Trap Card
@@ -3279,7 +3279,7 @@ Card ID,Card Name,Card Type
 42752141,Evolzar Dolkka,XYZ Monster
 74294676,Evolzar Laggia,XYZ Monster
 18511599,Evolzar Solda,XYZ Monster
-53180020,,Exa,, Enforcer of the Nekroz,,Effect Monster
+53180020,"Exa, Enforcer of the Nekroz",Effect Monster
 63749102,Exarion Universe,Effect Monster
 5556668,Exchange,Spell Card
 3160805,Exchange of Night and Day,Trap Card
@@ -3293,7 +3293,7 @@ Card ID,Card Name,Card Type
 74131780,Exiled Force,Effect Monster
 12600382,Exodia Necross,Effect Monster
 33396948,Exodia the Forbidden One,Effect Monster
-5008836,,Exodia,, the Legendary Defender,,Effect Monster
+5008836,"Exodia, the Legendary Defender",Effect Monster
 13893596,Exodius the Ultimate Forbidden Lord,Effect Monster
 20586572,Exploder Dragon,Effect Monster
 40529384,Exploder Dragonwing,Synchro Monster
@@ -3311,7 +3311,7 @@ Card ID,Card Name,Card Type
 32391566,Extra Veiler,Effect Monster
 57995165,Extra-Foolish Burial,Spell Card
 38383368,Extraceratops,Effect Monster
-55737443,,Exxod,, Master of The Guard,,Effect Monster
+55737443,"Exxod, Master of The Guard",Effect Monster
 57047293,Eye of the Void,Trap Card
 64511793,Eyearmor,Normal Monster
 39271553,F.A. Auto Navigator,Tuner Monster
@@ -3394,10 +3394,10 @@ Card ID,Card Name,Card Type
 4376658,Familiar-Possessed - Hiita,Effect Monster
 40542825,Familiar-Possessed - Lyna,Effect Monster
 31764353,Familiar-Possessed - Wynn,Effect Monster
-64400161,,Fandora,, the Flying Furtress,,Spell Card
+64400161,"Fandora, the Flying Furtress",Spell Card
 79176962,Fantastic Striborg,Effect Monster
 78661338,Fantastical Dragon Phantazmay,Effect Monster
-36553319,,Farfa,, Malebranche of the Burning Abyss,,Effect Monster
+36553319,"Farfa, Malebranche of the Burning Abyss",Effect Monster
 27001740,Farm Delivery,Trap Card
 77910045,Fatal Abacus,Trap Card
 786906,Fateful Hour,Trap Card
@@ -3409,9 +3409,9 @@ Card ID,Card Name,Card Type
 71060915,Feather Wind,Trap Card
 32271987,Featherizer,Effect Monster
 50785356,Feedback Warrior,Effect Monster
-92597893,,Feedran,, the Winds of Mischief,,Effect Monster
+92597893,"Feedran, the Winds of Mischief",Effect Monster
 3954901,Felgrand Dragon,Effect Monster
-73176465,,Felis,, Lightsworn Archer,,Tuner Monster
+73176465,"Felis, Lightsworn Archer",Tuner Monster
 97396380,Fencing Fire Ferret,Effect Monster
 50866755,Fenghuang,Spirit Monster
 37406863,Fengsheng Mirror,Spell Card
@@ -3443,7 +3443,7 @@ Card ID,Card Name,Card Type
 55428811,Fifth Hope,Spell Card
 85862791,Fighting Dirty,Trap Card
 6178850,Fighting Spirit,Spell Card
-36205132,,Filo,, Messenger Fur Hire,,Effect Monster
+36205132,"Filo, Messenger Fur Hire",Effect Monster
 52503575,Final Attack Orders,Trap Card
 95308449,Final Countdown,Spell Card
 18591904,Final Destiny,Spell Card
@@ -3605,7 +3605,7 @@ Card ID,Card Name,Card Type
 98280324,Fluffal Sheep,Effect Monster
 72413000,Fluffal Wings,Effect Monster
 11954712,Flyfang,Effect Monster
-80978111,Flying \"C\",Effect Monster
+80978111,"Flying \""C\""",Effect Monster
 33314479,Flying Carp,Effect Monster
 66765023,Flying Elephant,Effect Monster
 31987274,Flying Fish,Normal Monster
@@ -3617,7 +3617,7 @@ Card ID,Card Name,Card Type
 97697678,Flying Saucer Muusik'i,Effect Monster
 63741331,Fog Control,Spell Card
 6614221,Fog King,Effect Monster
-66023650,,Folgo,, Justice Fur Hire,,Link Monster
+66023650,"Folgo, Justice Fur Hire",Link Monster
 98252586,Follow Wind,Spell Card
 42776855,Follow Wing,Trap Card
 63175639,Fool of Prophecy,Effect Monster
@@ -3695,7 +3695,7 @@ Card ID,Card Name,Card Type
 43582229,Freezing Chains of the Ice Barrier,Spell Card
 98818516,Frenzied Panda,Normal Monster
 62154416,Frequency Magician,Tuner Monster
-12398280,,Freya,, Spirit of Victory,,Effect Monster
+12398280,"Freya, Spirit of Victory",Effect Monster
 85545073,Frightfur Bear,Fusion Monster
 83866861,Frightfur Chimera,Fusion Monster
 78778375,Frightfur Cruel Whale,Fusion Monster
@@ -3716,7 +3716,7 @@ Card ID,Card Name,Card Type
 464362,Frightfur Tiger,Fusion Monster
 11039171,Frightfur Wolf,Fusion Monster
 93830681,Friller Rabca,Effect Monster
-40998517,,Frodi,, Generaider Boss of Swords,,Effect Monster
+40998517,"Frodi, Generaider Boss of Swords",Effect Monster
 34351849,Froggy Forcefield,Trap Card
 38742075,Frontier Wiseman,Effect Monster
 46181000,Frontline Base,Spell Card
@@ -3748,7 +3748,7 @@ Card ID,Card Name,Card Type
 51091138,Fuse Line,Trap Card
 38538445,Fushi No Tori,Spirit Monster
 39711336,Fushioh Richie,Effect Monster
-51632798,,Fusilier Dragon,, the Dual-Mode Beast,,Effect Monster
+51632798,"Fusilier Dragon, the Dual-Mode Beast",Effect Monster
 17194258,Fusion Conscription,Spell Card
 6498706,Fusion Deployment,Spell Card
 52947044,Fusion Destiny,Spell Card
@@ -3775,9 +3775,9 @@ Card ID,Card Name,Card Type
 87902575,Future Visions,Spell Card
 4130270,G.B. Hunter,Effect Monster
 37955049,Gaap the Divine Soldier,Effect Monster
-6616912,,Gabrion,, the Timelord,,Effect Monster
+6616912,"Gabrion, the Timelord",Effect Monster
 10002346,Gachi Gachi Gantetsu,XYZ Monster
-36956512,,Gadarla,, the Mystery Dust Kaiju,,Effect Monster
+36956512,"Gadarla, the Mystery Dust Kaiju",Effect Monster
 47985614,Gadget Arms,Flip Effect Monster
 54497620,Gadget Driver,Effect Monster
 28002611,Gadget Hauler,Effect Monster
@@ -3806,23 +3806,23 @@ Card ID,Card Name,Card Type
 57782164,Gagagawind,Spell Card
 49003308,Gagagigo,Normal Monster
 9053187,Gagagigo the Risen,XYZ Monster
-91949988,,Gaia Dragon,, the Thunder Charger,,XYZ Monster
-58601383,,Gaia Drake,, the Universal Force,,Fusion Monster
-97204936,,Gaia Knight,, the Force of Earth,,Synchro Monster
+91949988,"Gaia Dragon, the Thunder Charger",XYZ Monster
+58601383,"Gaia Drake, the Universal Force",Fusion Monster
+97204936,"Gaia Knight, the Force of Earth",Synchro Monster
 14258627,Gaia Plate the Earth Giant,Effect Monster
 56594520,Gaia Power,Spell Card
-67598234,,Gaia Saber,, the Lightning Shadow,,Link Monster
+67598234,"Gaia Saber, the Lightning Shadow",Link Monster
 51355346,Gaia Soul the Combustible Collective,Effect Monster
 66889139,Gaia the Dragon Champion,Fusion Monster
 6368038,Gaia The Fierce Knight,Normal Monster
 50354944,Gaia the Fierce Knight Origin,Effect Monster
 34130561,Gaia the Magical Knight,Effect Monster
 15989522,Gaia the Magical Knight of Dragons,Fusion Monster
-40371092,,Gaia,, the Mid-Knight Sun,,Effect Monster
-14882493,,Gaia,, the Polar Knight,,Effect Monster
+40371092,"Gaia, the Mid-Knight Sun",Effect Monster
+14882493,"Gaia, the Polar Knight",Effect Monster
 20349913,Galactic Charity,Spell Card
 88774734,Galactic Spiral Dragon,Effect Monster
-30741503,,Galatea,, the Orcust Automaton,,Link Monster
+30741503,"Galatea, the Orcust Automaton",Link Monster
 55168550,Galaxy Brave,Effect Monster
 28770951,Galaxy Cleric,Effect Monster
 5133471,Galaxy Cyclone,Spell Card
@@ -3857,7 +3857,7 @@ Card ID,Card Name,Card Type
 2106266,Galloping Gaia,Spell Card
 37313786,Gamble,Trap Card
 2196767,Gambler of Legend,Effect Monster
-55063751,,Gameciel,, the Sea Turtle Kaiju,,Effect Monster
+55063751,"Gameciel, the Sea Turtle Kaiju",Effect Monster
 15502037,Gamma The Electromagnet Warrior,Effect Monster
 11549357,Gamma the Magnet Warrior,Normal Monster
 85709845,Gamushara,Trap Card
@@ -3872,18 +3872,18 @@ Card ID,Card Name,Card Type
 18698739,Garbage Ogre,Effect Monster
 76524506,Garden Rose Flora,Synchro Monster
 53325667,Garden Rose Maiden,Synchro Monster
-30646525,,Garlandolf,, King of Destruction,,Ritual Effect Monster
+30646525,"Garlandolf, King of Destruction",Ritual Effect Monster
 90844184,Garma Sword,Ritual Monster
 78577570,Garma Sword Oath,Spell Card
 88283496,Garmr of the Nordic Beasts,Effect Monster
 49888191,Garnecia Elefantis,Normal Monster
 14977074,Garoozis,Normal Monster
-59019082,,Garoth,, Lightsworn Warrior,,Effect Monster
+59019082,"Garoth, Lightsworn Warrior",Effect Monster
 12800777,Garuda the Wind Spirit,Effect Monster
 22382087,Garum the Storm Vassal,Effect Monster
 69780745,Garvas,Normal Monster
 19012345,Gash the Dust Lord,Effect Monster
-39475024,,Gashadokuro,, the Skeletal Mayakashi,,Synchro Monster
+39475024,"Gashadokuro, the Skeletal Mayakashi",Synchro Monster
 82257671,Gatchiri @Ignister,Effect Monster
 8102334,Gate Blocker,Effect Monster
 49258578,Gate Deeg,Normal Monster
@@ -4027,7 +4027,7 @@ Card ID,Card Name,Card Type
 84046493,Ghost Beef,Pendulum Normal Monster
 73642296,Ghost Belle & Haunted Mansion,Tuner Monster
 15419596,Ghost Bird of Bewitchment,Effect Monster
-23379054,,Ghost Charon,, the Underworld Boatman,,Tuner Monster
+23379054,"Ghost Charon, the Underworld Boatman",Tuner Monster
 44663232,Ghost Fairy Elfobia,Effect Monster
 59965151,Ghost Gardna,Effect Monster
 13386503,Ghost Knight of Jackal,Effect Monster
@@ -4126,7 +4126,7 @@ Card ID,Card Name,Card Type
 92821268,Gimmick Puppet Twilight Joker,Effect Monster
 79922118,Gingerbread House,Spell Card
 84620194,Girochin Kuwagata,Normal Monster
-69811710,,Girsu,, the Orcust Mekk-Knight,,Effect Monster
+69811710,"Girsu, the Orcust Mekk-Knight",Effect Monster
 67111213,Gishki Abyss,Effect Monster
 46159582,Gishki Aquamirror,Spell Card
 92784374,Gishki Ariel,Flip Effect Monster
@@ -4147,12 +4147,12 @@ Card ID,Card Name,Card Type
 47106439,Gishki Vision,Effect Monster
 66729231,Gishki Zielgigas,Ritual Effect Monster
 55465441,Give and Take,Trap Card
-63633694,,Gizmek Kaku,, the Supreme Shining Sky Stag,,Effect Monster
-46809548,,Gizmek Makami,, the Ferocious Fanged Fortress,,Effect Monster
-43218406,,Gizmek Okami,, the Dreaded Deluge Dragon,,Effect Monster
-71197066,,Gizmek Orochi,, the Serpentron Sky Slasher,,Effect Monster
-90361289,,Gizmek Uka,, the Festive Fox of Fecundity,,Effect Monster
-13224603,,Gizmek Yata,, the Gleaming Vanguard,,Effect Monster
+63633694,"Gizmek Kaku, the Supreme Shining Sky Stag",Effect Monster
+46809548,"Gizmek Makami, the Ferocious Fanged Fortress",Effect Monster
+43218406,"Gizmek Okami, the Dreaded Deluge Dragon",Effect Monster
+71197066,"Gizmek Orochi, the Serpentron Sky Slasher",Effect Monster
+90361289,"Gizmek Uka, the Festive Fox of Fecundity",Effect Monster
+13224603,"Gizmek Yata, the Gleaming Vanguard",Effect Monster
 43175027,Glacial Beast Blizzard Wolf,Effect Monster
 6568731,Glacial Beast Iceberg Narwhal,Synchro Monster
 79169622,Glacial Beast Polar Penguin,Tuner Monster
@@ -4203,7 +4203,7 @@ Card ID,Card Name,Card Type
 9780364,Gladiator Taming,Spell Card
 24285858,Gladiator's Return,Spell Card
 9677699,Glass Slippers,Spell Card
-14464864,,Gleipnir,, the Fetters of Fenrir,,Trap Card
+14464864,"Gleipnir, the Fetters of Fenrir",Trap Card
 899287,Glife the Phantom Bird,Effect Monster
 61962135,Glorious Illusion,Trap Card
 60944809,Glorious Numbers,Spell Card
@@ -4249,14 +4249,14 @@ Card ID,Card Name,Card Type
 2948263,Gogogo Golem - Golden Form,Effect Monster
 59911557,Gogogo Goram,Effect Monster
 63583431,Gogogo Talisman,Spell Card
-23116808,,Goka,, the Pyre of Malice,,Effect Monster
+23116808,"Goka, the Pyre of Malice",Effect Monster
 15367030,Gokibore,Normal Monster
 17535764,Gokipole,Effect Monster
 14472500,Gokipon,Effect Monster
 55010259,Gold Gadget,Effect Monster
 43528009,Gold Moon Coin,Spell Card
 75500286,Gold Sarcophagus,Spell Card
-78004197,,Goldd,, Wu-Lord of Dark World,,Effect Monster
+78004197,"Goldd, Wu-Lord of Dark World",Effect Monster
 74029853,Golden Bamboo Sword,Spell Card
 72283691,Golden Castle of Stromberg,Spell Card
 28565527,Golden Dragon Summoner,Effect Monster
@@ -4266,7 +4266,7 @@ Card ID,Card Name,Card Type
 78642798,Golden Idol,Effect Monster
 87102774,Golden Ladybug,Effect Monster
 56984514,Golden Land Forever!,Trap Card
-81344070,,Goldenhair,, the Newest Plunder Patroll,,Tuner Monster
+81344070,"Goldenhair, the Newest Plunder Patroll",Tuner Monster
 24521754,Goldilocks the Battle Landscaper,Effect Monster
 9666558,Golem Dragon,Effect Monster
 52323207,Golem Sentry,Effect Monster
@@ -4279,7 +4279,7 @@ Card ID,Card Name,Card Type
 42868711,Gora Turtle of Illusion,Effect Monster
 11793047,Gorgon Egg,Normal Monster
 52648457,Gorgon's Eye,Trap Card
-29357687,,Gorgon,, Empress of the Evil Eyed,,Link Monster
+29357687,"Gorgon, Empress of the Evil Eyed",Link Monster
 37168514,Gorgonic Cerberus,Effect Monster
 64379261,Gorgonic Gargoyle,Effect Monster
 90764875,Gorgonic Ghoul,Effect Monster
@@ -4328,8 +4328,8 @@ Card ID,Card Name,Card Type
 9032529,Graceful Tear,Trap Card
 10992251,Gradius,Normal Monster
 14291024,Gradius' Option,Effect Monster
-20758643,,Graff,, Malebranche of the Burning Abyss,,Effect Monster
-21785144,,Gragonith,, Lightsworn Dragon,,Effect Monster
+20758643,"Graff, Malebranche of the Burning Abyss",Effect Monster
+21785144,"Gragonith, Lightsworn Dragon",Effect Monster
 74983882,Grain Corn Token,Token
 13944422,Granadora,Effect Monster
 38430673,Grand Convergence,Spell Card
@@ -4342,7 +4342,7 @@ Card ID,Card Name,Card Type
 61468779,Grandsoil the Elemental Lord,Effect Monster
 15545291,Granmarg the Mega Monarch,Effect Monster
 60229110,Granmarg the Rock Monarch,Effect Monster
-34230233,,Grapha,, Dragon Lord of Dark World,,Effect Monster
+34230233,"Grapha, Dragon Lord of Dark World",Effect Monster
 32907538,Grapple Blocker,Effect Monster
 2906250,Grappler,Normal Monster
 16632144,Grappler Angler,Tuner Monster
@@ -4427,14 +4427,14 @@ Card ID,Card Name,Card Type
 3972721,Greed Grado,Spell Card
 50263751,Greed Quasar,Effect Monster
 51570882,Greedy Venom Fusion Dragon,Fusion Monster
-46668237,,Green Baboon,, Defender of the Forest,,Effect Monster
+46668237,"Green Baboon, Defender of the Forest",Effect Monster
 52182715,Green Duston,Effect Monster
 41172955,Green Gadget,Effect Monster
 22910685,Green Phantom King,Normal Monster
 54747648,Green Turtle Summoner,Effect Monster
 61831093,Greenkappa,Flip Effect Monster
 36584821,Gren Maju Da Eiza,Effect Monster
-51232472,,Gren,, Tactician of Dark World,,Effect Monster
+51232472,"Gren, Tactician of Dark World",Effect Monster
 47506081,Grenosaurus,XYZ Monster
 30552375,Grid Rod,Spell Card
 13090893,Grid Sweeper,Effect Monster
@@ -4495,7 +4495,7 @@ Card ID,Card Name,Card Type
 41788781,Guldfaxe of the Nordic Beasts,Tuner Monster
 90207654,Gullveig of the Nordic Ascendant,Link Monster
 38975369,Gundari,Spirit Monster
-65749035,,Gungnir,, Dragon of the Ice Barrier,,Synchro Monster
+65749035,"Gungnir, Dragon of the Ice Barrier",Synchro Monster
 55762976,Gussari @Ignister,Effect Monster
 73079365,Gust,Trap Card
 55321970,Gust Fan,Spell Card
@@ -4507,15 +4507,15 @@ Card ID,Card Name,Card Type
 336369,Gusto Squirro,Tuner Monster
 28066831,Gusto Thunbolt,Effect Monster
 33970665,Guts of Steel,Spell Card
-19748583,,Gwenhwyfar,, Queen of Noble Arms,,Effect Monster
+19748583,"Gwenhwyfar, Queen of Noble Arms",Effect Monster
 9817927,Gyaku-Gire Panda,Effect Monster
 31122090,Gyakutenno Megami,Normal Monster
 18325492,Gyroid,Effect Monster
 74825788,H - Heated Heart,Spell Card
 97466712,Hack Worm,Effect Monster
 28357177,Hade-Hane,Flip Effect Monster
-34137269,,Hailon,, the Timelord,,Effect Monster
-41729254,,Hajun,, the Winged Mayakashi,,Effect Monster
+34137269,"Hailon, the Timelord",Effect Monster
+41729254,"Hajun, the Winged Mayakashi",Effect Monster
 6799227,Half Counter,Trap Card
 15552258,Half or Nothing,Trap Card
 73048641,Half Shut,Spell Card
@@ -4527,7 +4527,7 @@ Card ID,Card Name,Card Type
 44790889,Hammer Bounzer,Effect Monster
 17201174,Hammer Shark,Effect Monster
 26412047,Hammer Shot,Spell Card
-32491822,,Hamon,, Lord of Striking Thunder,,Effect Monster
+32491822,"Hamon, Lord of Striking Thunder",Effect Monster
 74519184,Hand Destruction,Spell Card
 98446407,Hand of Nephthys,Effect Monster
 78792195,Hand of the Six Samurai,Effect Monster
@@ -4568,7 +4568,7 @@ Card ID,Card Name,Card Type
 52040216,Harpie's Pet Dragon,Effect Monster
 85909450,Harpie's Pet Phantasmal Dragon,XYZ Monster
 75782277,Harpies' Hunting Ground,Spell Card
-68199168,,Harr,, Generaider Boss of Storms,,Effect Monster
+68199168,"Harr, Generaider Boss of Storms",Effect Monster
 85399281,Harvest Angel of Wisdom,Effect Monster
 93895605,Hate Buster,Trap Card
 39033131,Haunted Shrine,Trap Card
@@ -4608,17 +4608,17 @@ Card ID,Card Name,Card Type
 23924608,Heavy Storm Duster,Trap Card
 61728808,Heavymetalfoes Amalgam,Link Monster
 24094258,Heavymetalfoes Electrumite,Link Monster
-90365482,,Hebo,, Lord of the River,,Spirit Monster
+90365482,"Hebo, Lord of the River",Spirit Monster
 74968065,Hecatrice,Effect Monster
 59042331,Hedge Guard,Effect Monster
-75660578,,Hela,, Generaider Boss of Doom,,Effect Monster
+75660578,"Hela, Generaider Boss of Doom",Effect Monster
 54493213,Helios - The Primordial Sun,Effect Monster
 80887952,Helios Duo Megistus,Effect Monster
 17286057,Helios Trice Megistus,Effect Monster
 51043053,Heliosphere Dragon,Effect Monster
 60880471,Hellebore the Rikka Fairy,Effect Monster
 92079625,Hellshaddoll Void,Flip Effect Monster
-67466547,,Helmer,, Helmsman Fur Hire,,Effect Monster
+67466547,"Helmer, Helmsman Fur Hire",Effect Monster
 47025270,Helping Robo for Combat,Effect Monster
 76052811,Helpoemer,Effect Monster
 66337215,Herald of Creation,Effect Monster
@@ -4680,7 +4680,7 @@ Card ID,Card Name,Card Type
 70703416,Hexa Spirit of the Ice Barrier,Tuner Monster
 70422863,Hexatellarknight,Spell Card
 46294982,Hexe Trude,Effect Monster
-64697431,,Hey,, Trunade!,,Spell Card
+64697431,"Hey, Trunade!",Spell Card
 91677585,Hi-Five the Sky,Trap Card
 15555120,Hi-Speed Re-Level,Spell Card
 42110604,Hi-Speedroid Chanbara,Synchro Monster
@@ -4727,7 +4727,7 @@ Card ID,Card Name,Card Type
 54579801,High Tide Gyojin,Normal Monster
 32542011,High Tide on Fire Island,Trap Card
 759393,Hiita the Fire Charmer,Flip Effect Monster
-48815792,,Hiita the Fire Charmer,, Ablaze,,Link Monster
+48815792,"Hiita the Fire Charmer, Ablaze",Link Monster
 71459017,Hinezumi Hanabi,Effect Monster
 75745607,Hino-Kagu-Tsuchi,Spirit Monster
 46130346,Hinotama,Spell Card
@@ -4781,7 +4781,7 @@ Card ID,Card Name,Card Type
 15083728,House of Adhesive Tape,Trap Card
 97922283,Howl of the Wild,Trap Card
 93107608,Howling Insect,Effect Monster
-49105782,,Hraesvelgr,, the Desperate Doom Eagle,,Link Monster
+49105782,"Hraesvelgr, the Desperate Doom Eagle",Link Monster
 15028680,HTS Psyhemuth,Synchro Monster
 93191801,Huaquero of the Golden Land,Trap Card
 65396880,Huge Revolution,Trap Card
@@ -4806,7 +4806,7 @@ Card ID,Card Name,Card Type
 47421985,Hydro Genex,Synchro Monster
 12174035,Hydro Pressure Cannon,Spell Card
 22587018,Hydrogeddon,Effect Monster
-82176812,,Hydrotortoise,, the Empowered Warrior,,Effect Monster
+82176812,"Hydrotortoise, the Empowered Warrior",Effect Monster
 22873798,Hyena,Effect Monster
 80566312,Hymn of Light,Spell Card
 38982356,Hyo,Normal Monster
@@ -4858,15 +4858,15 @@ Card ID,Card Name,Card Type
 97024987,Igknight Templar,Pendulum Normal Monster
 93662626,Igknight Veteran,Pendulum Normal Monster
 38848158,Igknights Unite,Spell Card
-22499034,,Ignis Heat,, the True Dracowarrior,,Effect Monster
+22499034,"Ignis Heat, the True Dracowarrior",Effect Monster
 59054773,Ignister A.I.Land,Spell Card
-18239909,,Ignister Prominence,, the Blasting Dracoslayer,,Synchro Monster
+18239909,"Ignister Prominence, the Blasting Dracoslayer",Synchro Monster
 10365322,Ignition Beast Volcannon,Fusion Monster
 79555535,Ignition Phoenix,Spell Card
 95772051,Ignoble Knight of Black Laundsallyn,Effect Monster
 83519853,Ignoble Knight of High Laundsallyn,Synchro Monster
-75888208,,Ikelos,, the Dream Mirror Mara,,Effect Monster
-49389190,,Ikelos,, the Dream Mirror Sprite,,Effect Monster
+75888208,"Ikelos, the Dream Mirror Mara",Effect Monster
+49389190,"Ikelos, the Dream Mirror Sprite",Effect Monster
 70595331,Il Blud,Gemini Monster
 81686058,Ill Witch,Normal Monster
 62161698,Illusion Balloons,Spell Card
@@ -5014,7 +5014,7 @@ Card ID,Card Name,Card Type
 19113101,Interceptomato,Effect Monster
 36261276,Interdimensional Matter Transporter,Trap Card
 57384901,Interdimensional Warp,Trap Card
-14729426,Interplanetary Invader \"A\",Effect Monster
+14729426,"Interplanetary Invader \""A\""",Effect Monster
 80208323,Interplanetarypurplythorny Beast,Effect Monster
 25206027,Interplanetarypurplythorny Dragon,Effect Monster
 2414168,Interrupt Resistor,Effect Monster
@@ -5062,7 +5062,7 @@ Card ID,Card Name,Card Type
 97273514,Inzektor Picofalena,Link Monster
 16550875,Inzektor Sword - Zektkaliber,Spell Card
 70744296,Ipiria,Effect Monster
-9628664,,Iris,, the Earth Mother,,Effect Monster
+9628664,"Iris, the Earth Mother",Effect Monster
 73431236,Iron Blacksmith Kotetsu,Flip Effect Monster
 45072394,Iron Cage,Spell Card
 64662453,Iron Call,Spell Card
@@ -5083,12 +5083,12 @@ Card ID,Card Name,Card Type
 662857,Iron Knight of Revolution,Link Monster
 79185500,Ironhammer the Giant,Effect Monster
 4042268,Island Turtle,Normal Monster
-22657402,,Isolde,, Belle of the Underworld,,Effect Monster
-59934749,,Isolde,, Two Tales of the Noble Knights,,Link Monster
+22657402,"Isolde, Belle of the Underworld",Effect Monster
+59934749,"Isolde, Two Tales of the Noble Knights",Link Monster
 300201007,It's a Toon World!,Skill Card
 300302011,It's Jinzo!,Skill Card
 300102004,It's My Lucky Day!,Skill Card
-300302012,,It's No Monster,, It's a God!,,Skill Card
+300302012,"It's No Monster, It's a God!",Skill Card
 14730606,Ivy Shackles,Trap Card
 30069399,Ivy Token,Token
 6544078,Izanagi,Effect Monster
@@ -5101,8 +5101,8 @@ Card ID,Card Name,Card Type
 81171949,Jackpot 7,Spell Card
 95214051,Jade Insect Whistle,Spell Card
 44364207,Jade Knight,Effect Monster
-96235275,,Jain,, Lightsworn Paladin,,Effect Monster
-84673417,,Jain,, Twilightsworn General,,Effect Monster
+96235275,"Jain, Lightsworn Paladin",Effect Monster
+84673417,"Jain, Twilightsworn General",Effect Monster
 21770260,Jam Breeding Machine,Spell Card
 21558682,Jam Defender,Trap Card
 98954106,Jar of Avarice,Trap Card
@@ -5114,7 +5114,7 @@ Card ID,Card Name,Card Type
 50532786,Jawsman,Effect Monster
 41440817,Jelly Cannon,Trap Card
 14851496,Jellyfish,Normal Monster
-83725008,,Jenis,, Lightsworn Mender,,Effect Monster
+83725008,"Jenis, Lightsworn Mender",Effect Monster
 23635815,Jerry Beans Man,Normal Monster
 8487449,Jester Confit,Effect Monster
 72992744,Jester Lord,Effect Monster
@@ -5122,7 +5122,7 @@ Card ID,Card Name,Card Type
 286392,Jet Warrior,Synchro Monster
 43697559,Jetroid,Effect Monster
 72710085,Jewels of the Valiant,Spell Card
-25935625,,Jiaotu,, Darkness of the Yang Zing,,Tuner Monster
+25935625,"Jiaotu, Darkness of the Yang Zing",Tuner Monster
 40894584,Jigabyte,Effect Monster
 90020065,Jigen Bakudan,Flip Effect Monster
 77585513,Jinzo,Effect Monster
@@ -5133,10 +5133,10 @@ Card ID,Card Name,Card Type
 9418534,Jinzo - Returner,Effect Monster
 39987731,Jinzo the Machine Menace,Effect Monster
 94773007,Jirai Gumo,Effect Monster
-63941210,,Jizukiru,, the Star Destroying Kaiju,,Effect Monster
+63941210,"Jizukiru, the Star Destroying Kaiju",Effect Monster
 55337339,Job-Change Mirror,Normal Monster
 8316565,Jolt Counter,Trap Card
-2665273,,Jormungandr,, Generaider Boss of Eternity,,XYZ Monster
+2665273,"Jormungandr, Generaider Boss of Eternity",XYZ Monster
 64203620,Jormungardr the Nordic Serpent,Effect Monster
 41855169,Jowgen the Spiritualist,Effect Monster
 5257687,Jowls of Dark Demise,Flip Effect Monster
@@ -5148,7 +5148,7 @@ Card ID,Card Name,Card Type
 4869446,Judgment of the Desert,Trap Card
 55948544,Judgment of the Pharaoh,Trap Card
 85080048,Judgment of Thunder,Trap Card
-41659072,,Judgment,, the Dragon of Heaven,,Synchro Monster
+41659072,"Judgment, the Dragon of Heaven",Synchro Monster
 42851643,Jumbo Drill,Effect Monster
 25148255,Junk Anchor,Tuner Monster
 42810973,Junk Archer,Synchro Monster
@@ -5211,7 +5211,7 @@ Card ID,Card Name,Card Type
 39972130,Kagemusha Tanuki Token,Token
 80600490,Kageningen,Normal Monster
 94656263,Kagetokage,Effect Monster
-25847467,,Kahkki,, Guerilla of Dark World,,Effect Monster
+25847467,"Kahkki, Guerilla of Dark World",Effect Monster
 71614230,Kai-Den Kendo Spirit,Pendulum Effect Monster
 34627841,Kaibaman,Effect Monster
 81057455,Kaiju Capture Mission,Trap Card
@@ -5223,51 +5223,51 @@ Card ID,Card Name,Card Type
 17444133,Kaiser Sea Horse,Effect Monster
 6442944,Kaiser Sea Snake,Effect Monster
 93927067,Kaiser Vorse Raider,Effect Monster
-97317530,,Kalantosa,, Mystical Beast of the Forest,,Effect Monster
+97317530,"Kalantosa, Mystical Beast of the Forest",Effect Monster
 68928540,Kamakiriman,Normal Monster
 9653271,Kaminari Attack,Fusion Monster
 97570038,Kaminote Blow,Spell Card
-91712985,,Kamion,, the Timelord,,Effect Monster
+91712985,"Kamion, the Timelord",Effect Monster
 41544074,Kamionwizard,Fusion Monster
-72439556,,Kamui,, Hope of Gusto,,Flip Effect Monster
+72439556,"Kamui, Hope of Gusto",Flip Effect Monster
 12829151,Kanan the Swordmistress,Normal Monster
 95789089,Kangaroo Champ,Effect Monster
 84103702,Kanikabuto,Normal Monster
 6284176,Kanzashi the Rikka Queen,XYZ Monster
 48109103,Kappa Avenger,Normal Monster
 85541675,Karakuri Anatomy,Spell Card
-92300891,Karakuri Barrel mdl 96 \"Shinkuro\",Tuner Monster
-49296203,Karakuri Bonze mdl 9763 \"Kunamzan\",Effect Monster
-39118197,Karakuri Bushi mdl 6318 \"Muzanichiha\",Effect Monster
+92300891,"Karakuri Barrel mdl 96 \""Shinkuro\""",Tuner Monster
+49296203,"Karakuri Bonze mdl 9763 \""Kunamzan\""",Effect Monster
+39118197,"Karakuri Bushi mdl 6318 \""Muzanichiha\""",Effect Monster
 80204957,Karakuri Cash Cache,Spell Card
 3693034,Karakuri Cash Inn,Trap Card
 2924048,Karakuri Cash Shed,Trap Card
-75690317,Karakuri Gama mdl 4624 \"Shirokunishi\",Effect Monster
+75690317,"Karakuri Gama mdl 4624 \""Shirokunishi\""",Effect Monster
 11699941,Karakuri Gama Oil,Spell Card
 16708652,Karakuri Gold Dust,Spell Card
 79178930,Karakuri Klock,Trap Card
-24621460,Karakuri Komachi mdl 224 \"Ninishi\",Tuner Monster
-30230789,Karakuri Merchant mdl 177 \"Inashichi\",Effect Monster
-24150026,Karakuri Muso mdl 818 \"Haipa\",Effect Monster
-93724592,Karakuri Ninja mdl 339 \"Sazank\",Effect Monster
-50615578,Karakuri Ninja mdl 7749 \"Nanashick\",Effect Monster
-6276588,Karakuri Ninja mdl 919 \"Kuick\",Effect Monster
-23874409,Karakuri Shogun mdl 00 \"Burei\",Synchro Monster
+24621460,"Karakuri Komachi mdl 224 \""Ninishi\""",Tuner Monster
+30230789,"Karakuri Merchant mdl 177 \""Inashichi\""",Effect Monster
+24150026,"Karakuri Muso mdl 818 \""Haipa\""",Effect Monster
+93724592,"Karakuri Ninja mdl 339 \""Sazank\""",Effect Monster
+50615578,"Karakuri Ninja mdl 7749 \""Nanashick\""",Effect Monster
+6276588,"Karakuri Ninja mdl 919 \""Kuick\""",Effect Monster
+23874409,"Karakuri Shogun mdl 00 \""Burei\""",Synchro Monster
 22751868,Karakuri Showdown Castle,Spell Card
-3846170,Karakuri Soldier mdl 236 \"Nisamu\",Effect Monster
+3846170,"Karakuri Soldier mdl 236 \""Nisamu\""",Effect Monster
 45688586,Karakuri Spider,Effect Monster
-66976526,Karakuri Steel Shogun mdl 00X \"Bureido\",Synchro Monster
-66625883,Karakuri Strategist mdl 248 \"Nishipachi\",Tuner Monster
-25904894,Karakuri Super Shogun mdl 00N \"Bureibu\",Synchro Monster
+66976526,"Karakuri Steel Shogun mdl 00X \""Bureido\""",Synchro Monster
+66625883,"Karakuri Strategist mdl 248 \""Nishipachi\""",Tuner Monster
+25904894,"Karakuri Super Shogun mdl 00N \""Bureibu\""",Synchro Monster
 33184236,Karakuri Trick House,Trap Card
-70271583,Karakuri Watchdog mdl 313 \"Saizan\",Tuner Monster
+70271583,"Karakuri Watchdog mdl 313 \""Saizan\""",Tuner Monster
 23289281,Karate Man,Effect Monster
 54541900,Karbonala Warrior,Fusion Monster
 71587526,Karma Cut,Trap Card
 78348934,Karma of the Destruction Swordsman,Spell Card
 52512994,Kasha,Effect Monster
 81179446,Kattapillar,Normal Monster
-51554871,,Kayenn,, the Master Magma Blacksmith,,Effect Monster
+51554871,"Kayenn, the Master Magma Blacksmith",Effect Monster
 62340868,Kazejin,Effect Monster
 48048590,Keeper of Dragon Magic,Effect Monster
 66752837,Keeper of the Shrine,Effect Monster
@@ -5387,7 +5387,7 @@ Card ID,Card Name,Card Type
 82642348,Kryuel,Effect Monster
 24384095,Kujakujaku,Effect Monster
 78543464,Kuji-Kiri Curse,Spell Card
-29726552,,Kumongous,, the Sticky String Kaiju,,Effect Monster
+29726552,"Kumongous, the Sticky String Kaiju",Effect Monster
 56283725,Kumootoko,Normal Monster
 37390589,Kunai with Chain,Trap Card
 56514812,Kunoichi,Effect Monster
@@ -5445,7 +5445,7 @@ Card ID,Card Name,Card Type
 28566710,Last Turn,Trap Card
 85602018,Last Will,Spell Card
 3560069,Latency,Effect Monster
-15667446,,Latinum,, Exarch of Dark World,,Effect Monster
+15667446,"Latinum, Exarch of Dark World",Effect Monster
 42591472,Laughing Flower,Normal Monster
 35911108,Launcher Commander,Effect Monster
 87322377,Launcher Spider,Normal Monster
@@ -5479,8 +5479,8 @@ Card ID,Card Name,Card Type
 67797569,Lavalval Salamander,Synchro Monster
 64659851,Law of the Cosmos,Spell Card
 67468948,Layard the Liberator,Effect Monster
-92435533,,Lazion,, the Timelord,,Effect Monster
-7127502,,Lector Pendulum,, the Dracoverlord,,Pendulum Effect Monster
+92435533,"Lazion, the Timelord",Effect Monster
+7127502,"Lector Pendulum, the Dracoverlord",Pendulum Effect Monster
 56256517,Ledger of Legerdemain,Spell Card
 21893603,Lee the World Chalice Fairy,Effect Monster
 90263923,Leeching the Light,Spell Card
@@ -5518,10 +5518,10 @@ Card ID,Card Name,Card Type
 62543393,Lekunga,Effect Monster
 62543394,Lekunga Token,Token
 34318086,Lemon Magician Girl,Effect Monster
-34103656,,Lemuria,, the Forgotten City,,Spell Card
+34103656,"Lemuria, the Forgotten City",Spell Card
 70298454,Leng Ling,Union Effect Monster
 4392470,Leo Wizard,Normal Monster
-8561192,,Leo,, the Keeper of the Sacred Tree,,Synchro Monster
+8561192,"Leo, the Keeper of the Sacred Tree",Synchro Monster
 57201737,Leodrake's Mane,Spell Card
 10538007,Leogun,Normal Monster
 98225108,Leotaur,Effect Monster
@@ -5544,8 +5544,8 @@ Card ID,Card Name,Card Type
 95992081,Leviair the Sea Dragon,XYZ Monster
 39752820,Lib the World Key Blademaster,Link Monster
 72022087,Liberty at Last!,Trap Card
-62957424,,Libic,, Malebranche of the Burning Abyss,,Effect Monster
-55818463,,Lich Lord,, King of the Underworld,,Effect Monster
+62957424,"Libic, Malebranche of the Burning Abyss",Effect Monster
+55818463,"Lich Lord, King of the Underworld",Effect Monster
 14318794,Life Absorbing Machine,Trap Card
 17178486,Life Equalizer,Trap Card
 25165047,Life Stream Dragon,Synchro Tuner Monster
@@ -5576,7 +5576,7 @@ Card ID,Card Name,Card Type
 49389523,Lightning Tricorn,Synchro Monster
 69162969,Lightning Vortex,Spell Card
 87259077,Lightning Warrior,Synchro Monster
-89185742,,Lightning,, Dragon Ruler of Drafts,,Effect Monster
+89185742,"Lightning, Dragon Ruler of Drafts",Effect Monster
 99365553,Lightpulsar Dragon,Effect Monster
 38737148,Lightray Daedalus,Effect Monster
 30126992,Lightray Diabolos,Effect Monster
@@ -5590,7 +5590,7 @@ Card ID,Card Name,Card Type
 30502181,Lightsworn Sabre,Spell Card
 52665542,Lightsworn Sanctuary,Spell Card
 78845026,Lightwave Tuning,Spell Card
-23898021,,Lilith,, Lady of Lament,,Effect Monster
+23898021,"Lilith, Lady of Lament",Effect Monster
 68812773,Lillybot,Effect Monster
 86607583,Limit Code,Trap Card
 82324105,Limit Impulse,Trap Card
@@ -5649,12 +5649,12 @@ Card ID,Card Name,Card Type
 37310367,Lockout Gardna,Effect Monster
 38354937,Locomotion R-Genex,Synchro Monster
 18478530,Loge's Flame,Trap Card
-67098114,,Loki,, Lord of the Aesir,,Synchro Monster
+67098114,"Loki, Lord of the Aesir",Synchro Monster
 82452993,Lone Wolf,Trap Card
 48686504,Lonefire Blossom,Effect Monster
-76145142,,Longirsu,, the Orcust Orchestrator,,Link Monster
+76145142,"Longirsu, the Orcust Orchestrator",Link Monster
 7852509,Loop of Destruction,Trap Card
-94183877,,Loptr,, Shadow of the Generaider Bosses,,Effect Monster
+94183877,"Loptr, Shadow of the Generaider Bosses",Effect Monster
 35514096,Lord British Space Fighter,Effect Monster
 8910971,Lord Gaia the Fierce Knight,Effect Monster
 17985575,Lord of D.,Effect Monster
@@ -5670,7 +5670,7 @@ Card ID,Card Name,Card Type
 17228908,Lost World,Spell Card
 61465001,Loud Cloud the Storm Serpent,Effect Monster
 300302003,Low Blow,Skill Card
-34968834,,Lucent,, Netherlord of Dark World,,Effect Monster
+34968834,"Lucent, Netherlord of Dark World",Effect Monster
 58786132,Lucius the Shadow Vassal,Effect Monster
 96012004,Lucky Chance,Trap Card
 82760689,Lucky Cloud,Spell Card
@@ -5681,8 +5681,8 @@ Card ID,Card Name,Card Type
 3985011,Lucky Trinket,Normal Monster
 39238953,Lullaby of Obedience,Spell Card
 57115864,Lumenize,Trap Card
-95503687,,Lumina,, Lightsworn Summoner,,Effect Monster
-56166150,,Lumina,, Twilightsworn Shaman,,Effect Monster
+95503687,"Lumina, Lightsworn Summoner",Effect Monster
+56166150,"Lumina, Twilightsworn Shaman",Effect Monster
 34834619,Luminous Dragon Ritual,Spell Card
 57482479,Luminous Soldier,Effect Monster
 81777047,Luminous Spark,Spell Card
@@ -5708,12 +5708,12 @@ Card ID,Card Name,Card Type
 62210247,Lunar Queen Elzaim,Normal Monster
 11091375,Luster Dragon,Normal Monster
 17658803,Luster Dragon #2,Normal Monster
-92746535,,Luster Pendulum,, the Dracoslayer,,Pendulum Tuner Effect Monster
+92746535,"Luster Pendulum, the Dracoslayer",Pendulum Tuner Effect Monster
 84385264,Lycanthrope,Ritual Effect Monster
-22624373,,Lyla,, Lightsworn Sorceress,,Effect Monster
-10071151,,Lyla,, Twilightsworn Enchantress,,Effect Monster
+22624373,"Lyla, Lightsworn Sorceress",Effect Monster
+10071151,"Lyla, Twilightsworn Enchantress",Effect Monster
 73318863,Lyna the Light Charmer,Flip Effect Monster
-9839945,,Lyna the Light Charmer,, Shining,,Link Monster
+9839945,"Lyna the Light Charmer, Shining",Link Monster
 48608796,Lyrilusc - Assembled Nightingale,XYZ Monster
 34550857,Lyrilusc - Cobalt Sparrow,Effect Monster
 76815942,Lyrilusc - Independent Nightingale,Fusion Monster
@@ -5790,7 +5790,7 @@ Card ID,Card Name,Card Type
 23681456,Madolchepalooza,Trap Card
 25341652,Maestroke the Symphony Djinn,XYZ Monster
 83746708,Mage Power,Spell Card
-26534688,,Magellanica,, the Deep Sea City,,Spell Card
+26534688,"Magellanica, the Deep Sea City",Spell Card
 10000030,Magi Magi Magician Gal,XYZ Monster
 62279055,Magic Cylinder,Trap Card
 96474800,Magic Deflector,Trap Card
@@ -5891,7 +5891,7 @@ Card ID,Card Name,Card Type
 27331568,Magnificent Machine Angel,Spell Card
 84877802,Magnum Shield,Spell Card
 93013676,Maha Vailo,Effect Monster
-45796834,,Maha Vailo,, Light of the Heavens,,Effect Monster
+45796834,"Maha Vailo, Light of the Heavens",Effect Monster
 545781,Mahaama the Fairy Dragon,Tuner Monster
 40695128,Maharaghi,Spirit Monster
 53620899,Mahjong Munia Maidens,Flip Effect Monster
@@ -5913,14 +5913,14 @@ Card ID,Card Name,Card Type
 645794,Majespecter Toad - Ogama,Pendulum Effect Monster
 36183881,Majespecter Tornado,Trap Card
 31178212,Majespecter Unicorn - Kirin,Pendulum Effect Monster
-88722973,,Majester Paladin,, the Ascending Dracoslayer,,XYZ Monster
+88722973,"Majester Paladin, the Ascending Dracoslayer",XYZ Monster
 21159309,Majestic Dragon,Tuner Monster
 95701283,Majestic Mech - Goryu,Effect Monster
 69303178,Majestic Mech - Ohka,Effect Monster
 32918479,Majestic Mech - Senku,Effect Monster
 67030233,Majestic Red Dragon,Synchro Monster
 7841112,Majestic Star Dragon,Synchro Monster
-95004025,,Majesty Maiden,, the True Dracocaster,,Effect Monster
+95004025,"Majesty Maiden, the True Dracocaster",Effect Monster
 2783661,Majesty with Eyes of Blue,Spell Card
 33746252,Majesty's Fiend,Effect Monster
 76473843,Majesty's Pegasus,Spell Card
@@ -5929,9 +5929,9 @@ Card ID,Card Name,Card Type
 59951714,Majiosheldon,Effect Monster
 9074847,Major Riot,Trap Card
 8794435,Maju Garzett,Effect Monster
-27827272,,Makiu,, the Magical Mist,,Spell Card
+27827272,"Makiu, the Magical Mist",Spell Card
 21593977,Makyura the Destructor,Effect Monster
-35330871,,Malacoda,, Netherlord of the Burning Abyss,,Ritual Effect Monster
+35330871,"Malacoda, Netherlord of the Burning Abyss",Ritual Effect Monster
 9433350,Malefic Blue-Eyes White Dragon,Effect Monster
 53063039,Malefic Claw Stream,Trap Card
 1710476,Malefic Cyber End Dragon,Effect Monster
@@ -5955,7 +5955,7 @@ Card ID,Card Name,Card Type
 14255590,Malice Ascendant,Effect Monster
 13626450,Malice Dispersion,Spell Card
 72657739,Malice Doll of Demise,Effect Monster
-25643346,,Malice,, Lady of Lament,,Effect Monster
+25643346,"Malice, Lady of Lament",Effect Monster
 61791132,Malicevorous Fork,Effect Monster
 98780137,Malicevorous Knife,Effect Monster
 35307484,Malicevorous Spoon,Effect Monster
@@ -5981,10 +5981,10 @@ Card ID,Card Name,Card Type
 24037702,March of the Dark Brigade,Spell Card
 19870120,March of the Monarchs,Spell Card
 28643791,March Towards Ragnarok,Spell Card
-13903402,,Mardel,, Generaider Boss of Light,,Effect Monster
+13903402,"Mardel, Generaider Boss of Light",Effect Monster
 54537489,Mare Mare,Tuner Monster
-94160895,,Mariamne,, the True Dracophoenix,,Effect Monster
-78540593,,Marina,, Princess of Sunflowers,,Effect Monster
+94160895,"Mariamne, the True Dracophoenix",Effect Monster
+78540593,"Marina, Princess of Sunflowers",Effect Monster
 33945211,Marincess Basilalima,Effect Monster
 91027843,Marincess Battle Ocean,Spell Card
 43735670,Marincess Blue Slug,Link Monster
@@ -6051,9 +6051,9 @@ Card ID,Card Name,Card Type
 49814180,Master Monk,Effect Monster
 27134689,Master of Oz,Fusion Monster
 34160055,Master of the Flaming Dragonswords,Effect Monster
-34079868,,Master Peace,, the True Dracoslayer,,Effect Monster
-21377582,,Master Peace,, the True Dracoslaying King,,Effect Monster
-75195825,,Master Pendulum,, the Dracoslayer,,Pendulum Normal Monster
+34079868,"Master Peace, the True Dracoslayer",Effect Monster
+21377582,"Master Peace, the True Dracoslaying King",Effect Monster
+75195825,"Master Pendulum, the Dracoslayer",Pendulum Normal Monster
 45644898,Master with Eyes of Blue,Tuner Monster
 35606858,Masterking Archfiend,Link Monster
 22609617,Mataza the Zapper,Effect Monster
@@ -6078,7 +6078,7 @@ Card ID,Card Name,Card Type
 59036972,Mavelus,Fusion Monster
 94538053,Max Warrior,Effect Monster
 30707994,Maximum Six,Effect Monster
-23434538,Maxx \"C\",Effect Monster
+23434538,"Maxx \""C\""",Effect Monster
 41867019,Mayakashi Mayhem,Trap Card
 39753577,Mayakashi Metamorphosis,Trap Card
 2364438,Mayakashi Return,Spell Card
@@ -6122,7 +6122,7 @@ Card ID,Card Name,Card Type
 88494899,Medium of the Ice Barrier,Effect Monster
 58843503,Medium Piece Golem,Effect Monster
 2694423,Medusa Worm,Effect Monster
-18551923,,Medusa,, Watcher of the Evil Eye,,Effect Monster
+18551923,"Medusa, Watcher of the Evil Eye",Effect Monster
 46820049,Mefist the Infernal General,Effect Monster
 21817254,Mega Thunderball,Normal Monster
 32062913,Mega Ton Magical Cannon,Spell Card
@@ -6145,7 +6145,7 @@ Card ID,Card Name,Card Type
 75390004,Megazowler,Normal Monster
 23032273,Megirus Light,Normal Monster
 83035296,Megistric Maginician,Effect Monster
-47731128,,Mei-Kou,, Master of Barriers,,Effect Monster
+47731128,"Mei-Kou, Master of Barriers",Effect Monster
 93715853,Mekanikal Arkfiend,Effect Monster
 84754430,Mekk-Knight Avram,Normal Monster
 20537097,Mekk-Knight Blue Sky,Effect Monster
@@ -6190,7 +6190,7 @@ Card ID,Card Name,Card Type
 64245689,Meliae of the Trees,XYZ Monster
 63804637,Melodious Illusion,Trap Card
 88942504,Melomelody the Brass Djinn,XYZ Monster
-49905576,,Meltiel,, Sage of the Sky,,Effect Monster
+49905576,"Meltiel, Sage of the Sky",Effect Monster
 84731222,Memories of Hope,Spell Card
 75675029,Memory Crush King,Effect Monster
 48700891,Memory Crusher,Effect Monster
@@ -6227,7 +6227,7 @@ Card ID,Card Name,Card Type
 49808196,Metabo Globster,Effect Monster
 49808197,Metabo Token,Token
 37792478,Metabo-Shark,Effect Monster
-74530899,,Metaion,, the Timelord,,Effect Monster
+74530899,"Metaion, the Timelord",Effect Monster
 65957473,Metal Armored Bug,Normal Monster
 75646520,Metal Detector,Trap Card
 9293977,Metal Dragon,Fusion Monster
@@ -6254,7 +6254,7 @@ Card ID,Card Name,Card Type
 68540059,Metalmorph,Trap Card
 32472237,Metalrokket Dragon,Effect Monster
 33114323,Metalsilver Armor,Spell Card
-57761191,,Metaltron XII,, the True Dracombatant,,Effect Monster
+57761191,"Metaltron XII, the True Dracombatant",Effect Monster
 50705071,Metalzoa,Effect Monster
 46500985,Metamorformation,Spell Card
 43959432,Metamorphortress,Trap Card
@@ -6283,8 +6283,8 @@ Card ID,Card Name,Card Type
 64274292,Meteorain,Trap Card
 26638543,Metrognome,Pendulum Effect Monster
 92826944,Mezuki,Effect Monster
-4779823,,Michael,, the Arch-Lightsworn,,Synchro Monster
-7733560,,Michion,, the Timelord,,Effect Monster
+4779823,"Michael, the Arch-Lightsworn",Synchro Monster
+7733560,"Michion, the Timelord",Effect Monster
 37580756,Michizure,Trap Card
 2347477,Micro Coder,Effect Monster
 18190572,Micro Ray,Trap Card
@@ -6327,9 +6327,9 @@ Card ID,Card Name,Card Type
 94079037,Mine Mole,Effect Monster
 85519211,Minefield Eruption,Trap Card
 24419823,Minefieldriller,Effect Monster
-40164421,,Minerva,, Lightsworn Maiden,,Tuner Monster
-53666449,,Minerva,, Scholar of the Sky,,Effect Monster
-30100551,,Minerva,, the Exalted Lightsworn,,XYZ Monster
+40164421,"Minerva, Lightsworn Maiden",Tuner Monster
+53666449,"Minerva, Scholar of the Sky",Effect Monster
+30100551,"Minerva, the Exalted Lightsworn",XYZ Monster
 99004752,Mini-Guts,Spell Card
 34815282,Miniaturize,Trap Card
 73341839,Miniborrel Dragon,Link Monster
@@ -6443,12 +6443,12 @@ Card ID,Card Name,Card Type
 93671934,Morale Boost,Spell Card
 22123627,Moray of Greed,Spell Card
 12760674,Mordschlag,Spell Card
-24027078,,Morgan,, the Enchantress of Avalon,,Effect Monster
+24027078,"Morgan, the Enchantress of Avalon",Effect Monster
 55784832,Morinphen,Normal Monster
 71717923,Mormolith,Effect Monster
 85457355,Morph King Stygi-Gel,Tuner Monster
-38267552,,Morpheus,, the Dream Mirror Black Knight,,Effect Monster
-1872843,,Morpheus,, the Dream Mirror White Knight,,Effect Monster
+38267552,"Morpheus, the Dream Mirror Black Knight",Effect Monster
+1872843,"Morpheus, the Dream Mirror White Knight",Effect Monster
 33508719,Morphing Jar,Flip Effect Monster
 79106360,Morphing Jar #2,Flip Effect Monster
 43573231,Morpho Butterspy,Effect Monster
@@ -6480,7 +6480,7 @@ Card ID,Card Name,Card Type
 2250266,Morphtronic Staplen,Effect Monster
 48868994,Morphtronic Vacuumen,Effect Monster
 84592800,Morphtronic Videon,Effect Monster
-49833312,,Morphtronics,, Scramble!,,Trap Card
+49833312,"Morphtronics, Scramble!",Trap Card
 8483333,Mosaic Manticore,Effect Monster
 57839750,Mother Grizzly,Effect Monster
 17021204,Mother Spider,Effect Monster
@@ -6513,7 +6513,7 @@ Card ID,Card Name,Card Type
 93900406,Mushroom Man #2,Effect Monster
 56907389,Musician King,Fusion Monster
 68191243,Mustering of the Dark Scorpions,Spell Card
-9837195,,Musto,, Oracle of Gusto,,Effect Monster
+9837195,"Musto, Oracle of Gusto",Effect Monster
 11508758,Mutant Mindmaster,Effect Monster
 75364199,Mutually Affured Destruction,Trap Card
 26563200,Muzurhythm the String Djinn,XYZ Monster
@@ -6582,7 +6582,7 @@ Card ID,Card Name,Card Type
 1984618,Nadir Servant,Spell Card
 97518132,Naelshaddoll Ariel,Flip Effect Monster
 63053267,Nagel's Protection,Spell Card
-2881864,,Naglfar,, Generaider Boss of Fire,,Effect Monster
+2881864,"Naglfar, Generaider Boss of Fire",Effect Monster
 98931003,Nanana,Spell Card
 70948327,Nanobreaker,Effect Monster
 40172183,Narrow Pass,Trap Card
@@ -6656,7 +6656,7 @@ Card ID,Card Name,Card Type
 60666820,Nefarious Archfiend Eater of Nefariousness,Effect Monster
 55117418,Nega-Ton Corepanel,Trap Card
 14315573,Negate Attack,Trap Card
-18189187,,Neiroy,, the Dream Mirror Disciple,,Effect Monster
+18189187,"Neiroy, the Dream Mirror Disciple",Effect Monster
 11021521,Neko Mane King,Effect Monster
 1761063,Nekogal #1,Normal Monster
 43352213,Nekogal #2,Normal Monster
@@ -6696,7 +6696,7 @@ Card ID,Card Name,Card Type
 19594506,Neo Space Pathfinder,Effect Monster
 95493471,Neo Super Quantal Mech King Blaster Magna,Link Monster
 50930991,Neo the Magic Swordsman,Normal Monster
-12510878,,Neo-Parshath,, the Sky Paladin,,Effect Monster
+12510878,"Neo-Parshath, the Sky Paladin",Effect Monster
 54959865,Neo-Spacian Air Hummingbird,Effect Monster
 17955766,Neo-Spacian Aqua Dolphin,Effect Monster
 43237273,Neo-Spacian Dark Panther,Effect Monster
@@ -6710,9 +6710,9 @@ Card ID,Card Name,Card Type
 5126490,Neos Wiseman,Effect Monster
 60226558,Nephe Shaddoll Fusion,Spell Card
 66675911,Nephshaddoll Genius,Flip Effect Monster
-87054946,,Nephthys,, the Sacred Flame,,Link Monster
-50669347,,Nephthys,, the Sacred Preserver,,Link Monster
-21565445,,Neptabyss,, the Atlantean Prince,,Effect Monster
+87054946,"Nephthys, the Sacred Flame",Link Monster
+50669347,"Nephthys, the Sacred Preserver",Link Monster
+21565445,"Neptabyss, the Atlantean Prince",Effect Monster
 19505896,Nettles,Tuner Monster
 84640866,Network Trap Hole,Trap Card
 43845801,Neutron Blast,Spell Card
@@ -6720,8 +6720,8 @@ Card ID,Card Name,Card Type
 81913510,NEX,Spell Card
 74414885,NEXT,Trap Card
 7076131,Next to be Lost,Trap Card
-27204311,,Nibiru,, the Primal Being,,Effect Monster
-49275969,,Nidhogg,, Generaider Boss of Ice,,Effect Monster
+27204311,"Nibiru, the Primal Being",Effect Monster
+49275969,"Nidhogg, Generaider Boss of Ice",Effect Monster
 16226786,Night Assailant,Flip Effect Monster
 89882100,Night Beam,Spell Card
 88724332,Night Dragolich,Effect Monster
@@ -6738,7 +6738,7 @@ Card ID,Card Name,Card Type
 300203002,Nightmare Sonic Blast!,Skill Card
 54704216,Nightmare Wheel,Trap Card
 58775978,Nightmare's Steelcage,Spell Card
-100416002,,Nihil,, Dreg of the Abhyss,,Effect Monster
+100416002,"Nihil, Dreg of the Abhyss",Effect Monster
 24701235,Nikitama,Spirit Monster
 88686573,Nimble Angler,Effect Monster
 68353324,Nimble Beaver,Effect Monster
@@ -6747,7 +6747,7 @@ Card ID,Card Name,Card Type
 57844634,Nimble Musasabi,Effect Monster
 2843014,Nimble Sunfish,Effect Monster
 11987744,Nin-Ken Dog,Normal Monster
-8660395,,Ninaruru,, the Magistus Glass Goddess,,XYZ Monster
+8660395,"Ninaruru, the Magistus Glass Goddess",XYZ Monster
 57831349,Nine Pillars of Yang Zing,Trap Card
 28981598,Nine-Lives Cat,XYZ Monster
 27198001,Nine-Tailed Fox,Effect Monster
@@ -6813,7 +6813,7 @@ Card ID,Card Name,Card Type
 48783998,Nova Summoner,Effect Monster
 43694075,Novox's Prayer,Spell Card
 51616747,Nubian Guard,Effect Monster
-100416001,,Null,, Dreg of the Abhyss,,Effect Monster
+100416001,"Null, Dreg of the Abhyss",Effect Monster
 57314798,Number 100: Numeron Dragon,XYZ Monster
 48739166,Number 101: Silent Honor ARK,XYZ Monster
 49678559,Number 102: Star Seraph Sentry,XYZ Monster
@@ -6836,7 +6836,7 @@ Card ID,Card Name,Card Type
 47805931,Number 20: Giga-Brilliant,XYZ Monster
 57707471,Number 21: Frozen Lady Justice,XYZ Monster
 73445448,Number 22: Zombiestein,XYZ Monster
-66547759,,Number 23: Lancelot,, Dark Knight of the Underworld,,XYZ Monster
+66547759,"Number 23: Lancelot, Dark Knight of the Underworld",XYZ Monster
 93713837,Number 24: Dragulas the Vampiric Dragon,XYZ Monster
 64554883,Number 25: Force Focus,XYZ Monster
 39622156,Number 26: Spaceway Octobypass,XYZ Monster
@@ -6981,7 +6981,7 @@ Card ID,Card Name,Card Type
 56713552,Obese Marmot of Nefariousness,Normal Monster
 64043465,Obliterate!!!,Trap Card
 52077741,Obnoxious Celtic Guard,Effect Monster
-30607616,,Oboro-Guruma,, the Wheeled Mayakashi,,Synchro Monster
+30607616,"Oboro-Guruma, the Wheeled Mayakashi",Synchro Monster
 98806751,Obsessive Uvualoop,Tuner Monster
 90464188,Obsidian Dragon,Effect Monster
 10485110,Ocean Dragon Lord - Neo-Daedalus,Effect Monster
@@ -7012,11 +7012,11 @@ Card ID,Card Name,Card Type
 58074177,Odd-Eyes Wing Dragon,Synchro Pendulum Effect Monster
 85497611,Odd-Eyes Wizard Dragon,Effect Monster
 88069166,Odin's Eye,Trap Card
-93483212,,Odin,, Father of the Aesir,,Synchro Monster
+93483212,"Odin, Father of the Aesir",Synchro Monster
 82340056,Offering to the Immortals,Trap Card
 93217231,Offering to the Snake Deity,Trap Card
 19230408,Offerings to the Doomed,Spell Card
-100416009,,Ogdoabyss,, Deity of the Abhyss,,Effect Monster
+100416009,"Ogdoabyss, Deity of the Abhyss",Effect Monster
 45121025,Ogre of the Black Shadow,Normal Monster
 82670878,Ogre of the Scarlet Sorrow,Effect Monster
 87313164,Oh F!sh!,Trap Card
@@ -7060,8 +7060,8 @@ Card ID,Card Name,Card Type
 68223137,One-Kuri-Way,Spell Card
 36042825,One-Shot Wand,Spell Card
 93104632,One-Time Passcode,Spell Card
-35187185,,Oneiros,, the Dream Mirror Erlking,,Fusion Monster
-37678339,,Oneiros,, the Dream Mirror Tormentor,,Fusion Monster
+35187185,"Oneiros, the Dream Mirror Erlking",Fusion Monster
+37678339,"Oneiros, the Dream Mirror Tormentor",Fusion Monster
 66927994,Oni Tank T-34,Normal Monster
 90470931,Oni-Gami Combo,Spell Card
 73820802,Onikuji,Trap Card
@@ -7102,7 +7102,7 @@ Card ID,Card Name,Card Type
 39537362,Ordeal of a Traveler,Trap Card
 78986941,Order to Charge,Spell Card
 39019325,Order to Smash,Trap Card
-95239444,,Orea,, the Sylvan High Arbiter,,XYZ Monster
+95239444,"Orea, the Sylvan High Arbiter",XYZ Monster
 15744417,Orgoth the Relentless,Effect Monster
 7634581,Orichalcos Shunoros,Effect Monster
 68124775,Orient Dragon,Synchro Monster
@@ -7110,7 +7110,7 @@ Card ID,Card Name,Card Type
 82065276,Oscillo Hero,Normal Monster
 71519605,Oshaleon,Effect Monster
 9113513,Ostinato,Spell Card
-60946968,Otherworld - The \"A\" Zone,Spell Card
+60946968,"Otherworld - The \""A\"" Zone",Spell Card
 39751094,Otohime,Spirit Monster
 14957440,Otoshidamashii,Tuner Monster
 79718768,Out of the Blue,Spell Card
@@ -7145,7 +7145,7 @@ Card ID,Card Name,Card Type
 83239739,Oyster Meister,Effect Monster
 83239740,Oyster Token,Token
 13760677,P.M. Captor,Pendulum Effect Monster
-2819435,,Pacifis,, the Phantasm City,,Spell Card
+2819435,"Pacifis, the Phantasm City",Spell Card
 78859567,Packet Link,Trap Card
 75153328,Packet Swap,Spell Card
 84530620,Pahunder,Effect Monster
@@ -7206,7 +7206,7 @@ Card ID,Card Name,Card Type
 62762898,Parrot Dragon,Normal Monster
 52228131,Parry,Trap Card
 17988746,Parry Knights,Effect Monster
-32872833,,Parsec,, the Interstellar Dragon,,Effect Monster
+32872833,"Parsec, the Interstellar Dragon",Effect Monster
 29185231,Parthian Shot,Trap Card
 39261576,Particle Fusion,Spell Card
 50292967,Past Image,Trap Card
@@ -7353,7 +7353,7 @@ Card ID,Card Name,Card Type
 7714344,Performapal Uni,Effect Monster
 64450427,Performapal Whim Witch,Pendulum Effect Monster
 79967395,Performapal Whip Snake,Effect Monster
-72924435,,Periallis,, Empress of Blossoms,,Synchro Monster
+72924435,"Periallis, Empress of Blossoms",Synchro Monster
 69764158,Peropero Cerperus,Effect Monster
 53936268,Personal Spoofing,Trap Card
 62472614,Pestilence,Spell Card
@@ -7376,8 +7376,8 @@ Card ID,Card Name,Card Type
 90884403,Phantasmal Lord Ultimitl Bishbaalkin,Synchro Monster
 93224849,Phantasmal Martyr Token,Token
 93224848,Phantasmal Martyrs,Spell Card
-99792080,,Phantasos,, the Dream Mirror Foe,,Effect Monster
-62393472,,Phantasos,, the Dream Mirror Friend,,Effect Monster
+99792080,"Phantasos, the Dream Mirror Foe",Effect Monster
+62393472,"Phantasos, the Dream Mirror Friend",Effect Monster
 71181155,Phantom Beast Cross-Wing,Effect Monster
 70969517,Phantom Beast Rock-Lizard,Effect Monster
 34961968,Phantom Beast Thunder-Pegasus,Effect Monster
@@ -7405,7 +7405,7 @@ Card ID,Card Name,Card Type
 63571750,Pharaoh's Treasure,Trap Card
 89707961,Pharaonic Guardian Sphinx,Effect Monster
 89959682,Pharaonic Protector,Normal Monster
-100416003,,Phlogi,, Haze of the Abhyss,,Effect Monster
+100416003,"Phlogi, Haze of the Abhyss",Effect Monster
 43791861,Phoenix Beast Gairuda,Effect Monster
 69488544,Phoenix Gearfried,Gemini Monster
 63356631,Phoenix Wing Wind Blast,Trap Card
@@ -7451,7 +7451,7 @@ Card ID,Card Name,Card Type
 58015506,Pikeru's Second Sight,Trap Card
 20700531,Pilgrim of the Ice Barrier,Effect Monster
 45742626,Pilgrim Reaper,XYZ Monster
-71175527,,Pilica,, Descendant of Gusto,,Effect Monster
+71175527,"Pilica, Descendant of Gusto",Effect Monster
 26185991,Pinch Hopper,Effect Monster
 90669991,Pineapple Blast,Trap Card
 67445676,Pinecono,Effect Monster
@@ -7498,7 +7498,7 @@ Card ID,Card Name,Card Type
 15248873,Pop-Up,Spell Card
 61840587,Portable Battery Pack,Trap Card
 25642998,Poseidon Wave,Trap Card
-47826112,,Poseidra,, the Atlantean Dragon,,Effect Monster
+47826112,"Poseidra, the Atlantean Dragon",Effect Monster
 52860176,Possessed Dark Soul,Effect Monster
 65046521,Possessed Partnerships,Trap Card
 64014615,Pot of Acquisitiveness,Spell Card
@@ -7628,10 +7628,10 @@ Card ID,Card Name,Card Type
 39732186,Prohibit Snake,Effect Monster
 43711255,Prohibition,Spell Card
 33280639,Prologue of the Destruction Swordsman,Trap Card
-75713017,,Prometeor,, the Burning Star,,Effect Monster
-82213171,,Prometheus,, King of the Shadows,,Effect Monster
+75713017,"Prometeor, the Burning Star",Effect Monster
+82213171,"Prometheus, King of the Shadows",Effect Monster
 21414674,Prominence Hand,Effect Monster
-89770167,,Prominence,, Molten Swordsman,,Effect Monster
+89770167,"Prominence, Molten Swordsman",Effect Monster
 50548657,Prompthorn,Effect Monster
 11373345,Proof of Powerlessness,Trap Card
 56174248,Prophecy Destroyer,Effect Monster
@@ -7647,7 +7647,7 @@ Card ID,Card Name,Card Type
 22862454,Proxy Dragon,Link Monster
 12450071,Proxy F Magician,Link Monster
 16684346,Proxy Horse,Effect Monster
-9798352,,Prufinesse,, the Tactical Trapper,,Effect Monster
+9798352,"Prufinesse, the Tactical Trapper",Effect Monster
 77584012,Pseudo Space,Spell Card
 46291010,Psi-Beast,Effect Monster
 29417188,Psi-Blocker,Effect Monster
@@ -7695,7 +7695,7 @@ Card ID,Card Name,Card Type
 80681226,Psychic Wave,Spell Card
 3233859,Psychic Wheeleder,Tuner Monster
 32180819,Psychokinesis,Spell Card
-35089369,,Pulao,, Wind of the Yang Zing,,Effect Monster
+35089369,"Pulao, Wind of the Yang Zing",Effect Monster
 34717238,Pulling the Rug,Trap Card
 58464739,Pulse Mines,Trap Card
 14512825,Pumpkin Carriage,Effect Monster
@@ -7710,14 +7710,14 @@ Card ID,Card Name,Card Type
 32875265,Puppet Parade,Trap Card
 51119924,Puppet Plant,Effect Monster
 1969506,Puppet Ritual,Spell Card
-37038993,,Puralis,, the Purple Pyrotile,,Synchro Tuner Monster
+37038993,"Puralis, the Purple Pyrotile",Synchro Tuner Monster
 64161630,Purge Ray,Trap Card
 48461764,Purple Poison Magician,Pendulum Effect Monster
 27870033,Pursuit Chaser,Effect Monster
 78942513,Purushaddoll Aeon,Trap Card
 85101097,Putrid Pudding Body Buddies,Effect Monster
 30585393,Puzzle Reborn,Trap Card
-84271823,,Puzzlomino,, the Drop-n-Deleter,,Link Monster
+84271823,"Puzzlomino, the Drop-n-Deleter",Link Monster
 76754619,Pyramid Energy,Spell Card
 53569894,Pyramid of Light,Trap Card
 66835946,Pyramid of Wonders,Spell Card
@@ -7775,14 +7775,14 @@ Card ID,Card Name,Card Type
 94905343,Rabid Horseman,Fusion Monster
 95788410,Rabidragon,Normal Monster
 28674153,Radian Token,Token
-28674152,,Radian,, the Multidimensional Kaiju,,Effect Monster
+28674152,"Radian, the Multidimensional Kaiju",Effect Monster
 84177693,Radiant Jeral,Effect Monster
 21481146,Radiant Mirror Force,Trap Card
 90835938,Radiant Seiyaryu,Effect Monster
 12624008,Radiant Spirit,Effect Monster
 70856343,Radiant Vouirescence,Effect Monster
-6483224,,Radius,, the Half-Moon Dragon,,Effect Monster
-38916526,,Rafale,, Champion Fur Hire,,Effect Monster
+6483224,"Radius, the Half-Moon Dragon",Effect Monster
+38916526,"Rafale, Champion Fur Hire",Effect Monster
 31440542,Rafflesia Seduction,Flip Effect Monster
 82685480,Rage of Kairyu-Shin,Spell Card
 73778008,Rage of the Deep Sea,Effect Monster
@@ -7796,7 +7796,7 @@ Card ID,Card Name,Card Type
 31173519,Rai Rider,Effect Monster
 37829468,Rai-Jin,Effect Monster
 63223467,Rai-Mei,Effect Monster
-77558536,,Raiden,, Hand of the Lightsworn,,Tuner Monster
+77558536,"Raiden, Hand of the Lightsworn",Tuner Monster
 28781003,Raider's Knight,XYZ Monster
 87091930,Raider's Unbreakable Mind,Trap Card
 52159691,Raider's Wing,Effect Monster
@@ -7846,7 +7846,7 @@ Card ID,Card Name,Card Type
 63945693,Rainbow Bridge,Spell Card
 79407975,Rainbow Dark Dragon,Effect Monster
 79856792,Rainbow Dragon,Effect Monster
-36795102,,Rainbow Dragon,, the Zenith Crystal Beast,,Effect Monster
+36795102,"Rainbow Dragon, the Zenith Crystal Beast",Effect Monster
 21347810,Rainbow Flower,Effect Monster
 63806265,Rainbow Gravity,Trap Card
 2830693,Rainbow Kuriboh,Effect Monster
@@ -7882,7 +7882,7 @@ Card ID,Card Name,Card Type
 23581825,Rank-Up-Magic Soul Shave Force,Spell Card
 36224040,Rank-Up-Magic ZEXAL Force,Spell Card
 44680819,Ranryu,Effect Monster
-60222213,,Raphion,, the Timelord,,Effect Monster
+60222213,"Raphion, the Timelord",Effect Monster
 67526112,Rapid Trigger,Spell Card
 255998,Rapid Warrior,Effect Monster
 6337436,Rapid-Fire Magician,Effect Monster
@@ -7898,9 +7898,9 @@ Card ID,Card Name,Card Type
 43378076,Rasetsu,Spirit Monster
 88000953,Rasterliger,Link Monster
 87188910,Ravenous Crocodragon Archethys,Synchro Monster
-91642007,,Ravenwing,, the Plunder Patroll Pilot,,Effect Monster
-69890967,,Raviel,, Lord of Phantasms,,Effect Monster
-28651380,,Raviel,, Lord of Phantasms - Shimmering Scraper,,Effect Monster
+91642007,"Ravenwing, the Plunder Patroll Pilot",Effect Monster
+69890967,"Raviel, Lord of Phantasms",Effect Monster
+28651380,"Raviel, Lord of Phantasms - Shimmering Scraper",Effect Monster
 85309439,Ray & Temperature,Normal Monster
 82529174,Ray of Hope,Trap Card
 18372968,Razor Lizard,Effect Monster
@@ -7909,7 +7909,7 @@ Card ID,Card Name,Card Type
 74694807,Re-Fusion,Spell Card
 20426907,Re-qliate,Trap Card
 18000338,Re: EX,Effect Monster
-91020571,,Reactan,, Dragon Ruler of Pebbles,,Effect Monster
+91020571,"Reactan, Dragon Ruler of Pebbles",Effect Monster
 79387392,Reactor Slime,Effect Monster
 31785398,Ready for Intercepting,Trap Card
 28121403,Really Eternal Rest,Trap Card
@@ -7934,7 +7934,7 @@ Card ID,Card Name,Card Type
 37576645,Reckless Greed,Trap Card
 11596936,Reckoned Power,Trap Card
 70238111,Recoded Alive,Trap Card
-31467949,,Recon,, Scout Fur Hire,,Effect Monster
+31467949,"Recon, Scout Fur Hire",Effect Monster
 76232522,Recovery Sorcerer,Link Monster
 81191584,Recurring Nightmare,Spell Card
 96316857,Recycle,Spell Card
@@ -7994,13 +7994,13 @@ Card ID,Card Name,Card Type
 5186893,Red-Eyes Zombie Dragon,Effect Monster
 28240337,Red-Eyes Zombie Necro Dragon,Synchro Monster
 30494314,Red-Headed Oni,Effect Monster
-68769900,,Redbeard,, the Plunder Patroll Matey,,Effect Monster
+68769900,"Redbeard, the Plunder Patroll Matey",Effect Monster
 84404797,Redeemable Jar,Trap Card
-90411554,,Redox,, Dragon Ruler of Boulders,,Effect Monster
+90411554,"Redox, Dragon Ruler of Boulders",Effect Monster
 71353388,Reed Butterfly,Effect Monster
 30276969,Reese the Ice Mistress,Tuner Monster
 51023024,Reeshaddoll Wendi,Flip Effect Monster
-36331074,,Reeze,, Whirlwind of Gusto,,Effect Monster
+36331074,"Reeze, Whirlwind of Gusto",Effect Monster
 2851070,Reflect Bounder,Effect Monster
 39000945,Reflection of Endymion,Pendulum Effect Monster
 70821187,Regenerating Mummy,Effect Monster
@@ -8008,7 +8008,7 @@ Card ID,Card Name,Card Type
 31986289,Regenerating Rose Token,Token
 79544790,Regretful Rebirth,Trap Card
 20210570,Regulus,Effect Monster
-99458769,,Reign-Beaux,, Overlord of Dark World,,Effect Monster
+99458769,"Reign-Beaux, Overlord of Dark World",Effect Monster
 10118318,Reinforce Truth,Trap Card
 80102359,Reinforced Human Psychic Borg,Effect Monster
 11224934,Reinforced Space,Trap Card
@@ -8022,7 +8022,7 @@ Card ID,Card Name,Card Type
 26956670,Release from Stone,Trap Card
 75417459,Release Restraint,Spell Card
 98847704,Release Restraint Wave,Spell Card
-38777931,,Release,, Reverse,, Burst,,Trap Card
+38777931,"Release, Reverse, Burst",Trap Card
 37507488,Relieve Monster,Trap Card
 50185950,Relinkuriboh,Effect Monster
 64631466,Relinquished,Ritual Effect Monster
@@ -8035,7 +8035,7 @@ Card ID,Card Name,Card Type
 94739788,Remove Brainwashing,Trap Card
 51482758,Remove Trap,Spell Card
 81306186,Renewal of the World,Trap Card
-60606759,,Renge,, Gatekeeper of Dark World,,Normal Monster
+60606759,"Renge, Gatekeeper of Dark World",Normal Monster
 34989413,Reprodocus,Link Monster
 81782101,Reptia Egg,Effect Monster
 8602351,Reptilianne Echidna,Link Monster
@@ -8075,7 +8075,7 @@ Card ID,Card Name,Card Type
 49082032,Resurgam Xyz,Trap Card
 39399168,Resurrection of Chakra,Spell Card
 55702233,Ret-time Reviver Emit-ter,Tuner Monster
-46502744,Retaliating \"C\",Effect Monster
+46502744,"Retaliating \""C\""",Effect Monster
 22747316,Retort,Trap Card
 47247413,Return,Trap Card
 27174286,Return from the Different Dimension,Trap Card
@@ -8128,12 +8128,12 @@ Card ID,Card Name,Card Type
 3828844,Rikka Queen Strenna,XYZ Monster
 68941332,Rikka Sheet,Trap Card
 32557233,Rikka Tranquility,Trap Card
-74689476,,Rilliona,, the Magistus Glass Witch,,XYZ Monster
-72498838,,Rilliona,, the Magistus of Verre,,Effect Monster
+74689476,"Rilliona, the Magistus Glass Witch",XYZ Monster
+72498838,"Rilliona, the Magistus of Verre",Effect Monster
 58641905,Ring of Defense,Spell Card
 83555666,Ring of Destruction,Trap Card
 20436034,Ring of Magnetism,Spell Card
-38815069,,Rinyan,, Lightsworn Rogue,,Flip Effect Monster
+38815069,"Rinyan, Lightsworn Rogue",Flip Effect Monster
 34016756,Riryoku,Spell Card
 70344351,Riryoku Field,Trap Card
 300302017,Rise of the Fallen,Skill Card
@@ -8213,7 +8213,7 @@ Card ID,Card Name,Card Type
 48214588,Rookie Fur Hire,Spell Card
 39004808,Root Water,Normal Monster
 93382620,Rope of Life,Trap Card
-81146288,,Rosaria,, the Stately Fallen Angel,,Effect Monster
+81146288,"Rosaria, the Stately Fallen Angel",Effect Monster
 51852507,Rose Archer,Effect Monster
 80196387,Rose Bell of Revelation,Spell Card
 25090294,Rose Bud,Spell Card
@@ -8226,7 +8226,7 @@ Card ID,Card Name,Card Type
 41160533,Rose Tentacles,Effect Monster
 71645243,Rose Token,Token
 23087070,Rose Witch,Effect Monster
-1557341,,Rose,, Warrior of Revenge,,Tuner Monster
+1557341,"Rose, Warrior of Revenge",Tuner Monster
 46303688,Roulette Barrel,Effect Monster
 36708764,Roulette Spider,Spell Card
 93708824,Rox Rose Dragon,Tuner Monster
@@ -8245,20 +8245,20 @@ Card ID,Card Name,Card Type
 37953640,Royal Swamp Eel,Tuner Monster
 72405967,Royal Tribute,Spell Card
 86742443,Royal Writ of Taxation,Trap Card
-734741,,Rubic,, Malebranche of the Burning Abyss,,Tuner Monster
+734741,"Rubic, Malebranche of the Burning Abyss",Tuner Monster
 26378150,Rude Kaiser,Normal Monster
 24919805,Ruffian Railcar,Effect Monster
-50139096,,Ruin,, Angel of Oblivion,,Ritual Effect Monster
-46427957,,Ruin,, Queen of Oblivion,,Ritual Effect Monster
-13518809,,Ruin,, Supreme Queen of Oblivion,,Ritual Effect Monster
+50139096,"Ruin, Angel of Oblivion",Ritual Effect Monster
+46427957,"Ruin, Queen of Oblivion",Ritual Effect Monster
+13518809,"Ruin, Supreme Queen of Oblivion",Ritual Effect Monster
 69868555,Ruins of the Divine Dragon Lords,Spell Card
 83831356,Runaway Karakuri,Spell Card
 1516510,Rune-Eyes Pendulum Dragon,Fusion Monster
 70046172,Rush Recklessly,Spell Card
 36736723,Rush Warrior,Effect Monster
 73148972,Ruthless Denial,Spell Card
-21502796,,Ryko,, Lightsworn Hunter,,Flip Effect Monster
-83550869,,Ryko,, Twilightsworn Fighter,,Effect Monster
+21502796,"Ryko, Lightsworn Hunter",Flip Effect Monster
+83550869,"Ryko, Twilightsworn Fighter",Effect Monster
 57281778,Ryu Kokki,Effect Monster
 63737050,Ryu Okami,Effect Monster
 49868263,Ryu Senshi,Fusion Monster
@@ -8295,16 +8295,16 @@ Card ID,Card Name,Card Type
 98850929,Sacred Serpent's Wake,Spell Card
 44877690,Sacred Spirit of the Ice Barrier,Spirit Monster
 45725480,Sacred Sword of Seven Stars,Spell Card
-9349094,,Sacred Tree Beast,, Hyperyton,,XYZ Monster
-65314286,,Sadion,, the Timelord,,Effect Monster
+9349094,"Sacred Tree Beast, Hyperyton",XYZ Monster
+65314286,"Sadion, the Timelord",Effect Monster
 38296564,Safe Zone,Trap Card
-56350972,,Saffira,, Queen of Dragons,,Ritual Effect Monster
+56350972,"Saffira, Queen of Dragons",Ritual Effect Monster
 26669055,Sage of Silence,Effect Monster
 62054060,Sage of Stillness,Effect Monster
 8240199,Sage with Eyes of Blue,Tuner Monster
 13604200,Sage's Stone,Spell Card
 66602787,Saggi the Dark Clown,Normal Monster
-93738004,,Sagitta,, Maverick Fur Hire,,Effect Monster
+93738004,"Sagitta, Maverick Fur Hire",Effect Monster
 56120475,Sakuretsu Armor,Trap Card
 32268901,Salamandra,Spell Card
 60303245,Salamangreat Almiraj,Link Monster
@@ -8349,7 +8349,7 @@ Card ID,Card Name,Card Type
 33750025,Samsara Dragon,Effect Monster
 72237166,Samsara Kaiser,Effect Monster
 5592689,Samsara Lotus,Effect Monster
-29143726,,Samsara,, Dragon of Rebirth,,Synchro Monster
+29143726,"Samsara, Dragon of Rebirth",Synchro Monster
 93124273,Samurai Cavalry of Reptier,Pendulum Effect Monster
 40509732,Samurai Destroyer,Synchro Monster
 64926005,Samurai of the Ice Barrier,Effect Monster
@@ -8359,7 +8359,7 @@ Card ID,Card Name,Card Type
 50593156,Sand Gambler,Effect Monster
 73648243,Sand Moth,Effect Monster
 73051941,Sand Stone,Normal Monster
-33015627,,Sandaion,, the Timelord,,Effect Monster
+33015627,"Sandaion, the Timelord",Effect Monster
 25955164,Sanga of the Thunder,Effect Monster
 26202165,Sangan,Effect Monster
 60627999,Sanguine Swamp,Trap Card
@@ -8389,7 +8389,7 @@ Card ID,Card Name,Card Type
 50400231,Satellite Cannon,Effect Monster
 57458399,Satellite Synchron,Effect Monster
 84664085,Satellite Warrior,Synchro Monster
-4810828,,Sauravis,, the Ancient and Ascended,,Ritual Effect Monster
+4810828,"Sauravis, the Ancient and Ascended",Ritual Effect Monster
 41753322,Sauropod Brachion,Effect Monster
 32391631,Savage Colosseum,Spell Card
 75198893,Scanner,Effect Monster
@@ -8397,8 +8397,8 @@ Card ID,Card Name,Card Type
 73915051,Scapegoat,Spell Card
 50215517,Scarlet Security,Spell Card
 80666118,Scarlight Red Dragon Archfiend,Synchro Monster
-84764038,,Scarm,, Malebranche of the Burning Abyss,,Effect Monster
-5498296,,Scarr,, Scout of Dark World,,Effect Monster
+84764038,"Scarm, Malebranche of the Burning Abyss",Effect Monster
+5498296,"Scarr, Scout of Dark World",Effect Monster
 45298492,Scarred Warrior,Synchro Monster
 68087897,Scary Moth,Effect Monster
 57594700,Schuberta the Melodious Maestra,Fusion Monster
@@ -8456,7 +8456,7 @@ Card ID,Card Name,Card Type
 54537490,Seahorse Token,Token
 97809599,Seal of the Ancients,Spell Card
 17874674,Seal of Wickedness,Trap Card
-20345391,,Seal,, Strategist Fur Hire,,Effect Monster
+20345391,"Seal, Strategist Fur Hire",Effect Monster
 52971944,Sealing Ceremony of Katon,Trap Card
 1802450,Sealing Ceremony of Mokuton,Trap Card
 42425831,Sealing Ceremony of Raiton,Trap Card
@@ -8505,7 +8505,7 @@ Card ID,Card Name,Card Type
 6740720,Seiyaryu,Normal Monster
 24940422,Sekka's Light,Spell Card
 29303524,Seleglare the Luminous Lunar Dragon,Effect Monster
-45819647,,Selene,, Queen of the Master Magicians,,Link Monster
+45819647,"Selene, Queen of the Master Magicians",Link Monster
 6783559,Self-Destruct Ant,Flip Effect Monster
 57585212,Self-Destruct Button,Trap Card
 15103313,Self-Mummification,Spell Card
@@ -8517,7 +8517,7 @@ Card ID,Card Name,Card Type
 40771118,Sentence of Doom,Trap Card
 85448931,Sentinel of the Seas,Normal Monster
 57354389,Sentry Soldier of Stone,Effect Monster
-8967776,,Sephylon,, the Ultimate Timelord,,Effect Monster
+8967776,"Sephylon, the Ultimate Timelord",Effect Monster
 91140491,Seraphim Papillon,Link Monster
 42029847,Serenade the Melodious Diva,Effect Monster
 98358303,Serene Psychic Witch,Effect Monster
@@ -8530,7 +8530,7 @@ Card ID,Card Name,Card Type
 2792265,Servant of Catabolism,Effect Monster
 92559258,Servant of Endymion,Pendulum Effect Monster
 300103004,Servants of the Fallen King,Skill Card
-82466274,,Serziel,, Watcher of the Evil Eye,,Effect Monster
+82466274,"Serziel, Watcher of the Evil Eye",Effect Monster
 73468603,Set Rotation,Spell Card
 19590644,Setuppercut,Trap Card
 95034141,Seven Cities of the Golden Land,Spell Card
@@ -8564,7 +8564,7 @@ Card ID,Card Name,Card Type
 9603356,Shadowknight Archfiend,Effect Monster
 27869883,Shadowpriestess of Ohm,Effect Monster
 20939559,Shadowslayer,Effect Monster
-78936551,,Shafu,, the Wheeled Mayakashi,,Effect Monster
+78936551,"Shafu, the Wheeled Mayakashi",Effect Monster
 78917791,Shaman of the Tenyi,Link Monster
 92099232,Shapesister,Trap Card
 4035199,Shapesnatch,Normal Monster
@@ -8600,7 +8600,7 @@ Card ID,Card Name,Card Type
 59560625,Shift,Trap Card
 59237154,Shifting Shadows,Spell Card
 60365591,Shinato's Ark,Spell Card
-86327225,,Shinato,, King of a Higher Plane,,Ritual Effect Monster
+86327225,"Shinato, King of a Higher Plane",Ritual Effect Monster
 86952477,Shine Knight,Effect Monster
 82878489,Shine Palace,Spell Card
 87303357,Shining Abyss,Normal Monster
@@ -8620,8 +8620,8 @@ Card ID,Card Name,Card Type
 276357,Shinobird Salvation,Trap Card
 25415053,Shinobird Token,Token
 73055622,Shinobird's Calling,Spell Card
-94081496,Shiny Black \"C\",Effect Monster
-4148264,Shiny Black \"C\" Squadder,Normal Monster
+94081496,"Shiny Black \""C\""",Effect Monster
+4148264,"Shiny Black \""C\"" Squadder",Normal Monster
 35818851,Shiranui Samurai,Effect Monster
 57288064,Shiranui Samuraisaga,Synchro Monster
 83283063,Shiranui Shogunsaga,Synchro Monster
@@ -8641,7 +8641,7 @@ Card ID,Card Name,Card Type
 59843383,Shiranui Sunsaga,Synchro Monster
 5177985,Shiranui Swordmaster,Effect Monster
 26326541,Shiranui Swordsaga,Synchro Monster
-2420921,,Shire,, Lightsworn Spirit,,Effect Monster
+2420921,"Shire, Lightsworn Spirit",Effect Monster
 15609017,Shock Surprise,Spell Card
 38528901,Shock Troops of the Ice Barrier,Effect Monster
 2584136,Shocktopus,Effect Monster
@@ -8664,7 +8664,7 @@ Card ID,Card Name,Card Type
 55713623,Shrink,Spell Card
 14816688,Shuffle Reborn,Spell Card
 32615065,Shura the Combat Star,Fusion Monster
-90307777,,Shurit,, Strategist of the Nekroz,,Effect Monster
+90307777,"Shurit, Strategist of the Nekroz",Effect Monster
 65422840,Shutendoji,Effect Monster
 10449150,Shuttleroid,Effect Monster
 30922149,Side Effects?,Trap Card
@@ -8687,7 +8687,7 @@ Card ID,Card Name,Card Type
 74388798,Silent Swordsman LV5,Effect Monster
 37267041,Silent Swordsman LV7,Effect Monster
 71015787,Silent Wobby,Effect Monster
-32619583,,Sillva,, Warlord of Dark World,,Effect Monster
+32619583,"Sillva, Warlord of Dark World",Effect Monster
 73001017,Silpheed,Effect Monster
 1557499,Silver Bow and Arrow,Spell Card
 90357090,Silver Fang,Normal Monster
@@ -8701,14 +8701,14 @@ Card ID,Card Name,Card Type
 28617139,Simorgh Onslaught,Spell Card
 64002884,Simorgh Repulsion,Spell Card
 57823578,Simorgh Sky Battle,Trap Card
-86489182,,Simorgh,, Bird of Ancestry,,Effect Monster
-50820852,,Simorgh,, Bird of Beginning,,Effect Monster
-96214561,,Simorgh,, Bird of Bringing,,Effect Monster
-23619206,,Simorgh,, Bird of Calamity,,Effect Monster
-14989021,,Simorgh,, Bird of Divinity,,Effect Monster
-59707204,,Simorgh,, Bird of Protection,,Effect Monster
-72330894,,Simorgh,, Bird of Sovereignty,,Link Monster
-95192919,,Simorgh,, Lord of the Storm,,Effect Monster
+86489182,"Simorgh, Bird of Ancestry",Effect Monster
+50820852,"Simorgh, Bird of Beginning",Effect Monster
+96214561,"Simorgh, Bird of Bringing",Effect Monster
+23619206,"Simorgh, Bird of Calamity",Effect Monster
+14989021,"Simorgh, Bird of Divinity",Effect Monster
+59707204,"Simorgh, Bird of Protection",Effect Monster
+72330894,"Simorgh, Bird of Sovereignty",Link Monster
+95192919,"Simorgh, Lord of the Storm",Effect Monster
 92219931,Simultaneous Loss,Trap Card
 68661341,Single Purchase,Spell Card
 60406592,Sinister Seed Token,Token
@@ -8828,7 +8828,7 @@ Card ID,Card Name,Card Type
 15893860,Snowman Creator,Effect Monster
 91133740,Snowman Eater,Effect Monster
 62370023,Snowman Effect,Trap Card
-60228941,,Snoww,, Unlight of Dark World,,Effect Monster
+60228941,"Snoww, Unlight of Dark World",Effect Monster
 35448319,Snyffus,Tuner Monster
 26381750,Soaring Eagle Above the Searing Land,Tuner Monster
 86318356,Sogen,Spell Card
@@ -8862,7 +8862,7 @@ Card ID,Card Name,Card Type
 40384720,Sonic Shooter,Effect Monster
 93138457,Sonic Stun,Trap Card
 17932494,Sonic Warrior,Effect Monster
-4335427,,Sophia,, Goddess of Rebirth,,Effect Monster
+4335427,"Sophia, Goddess of Rebirth",Effect Monster
 62895219,Soprano the Melodious Songstress,Effect Monster
 88619463,Sorcerer of Dark Magic,Effect Monster
 49218300,Sorcerer of the Doomed,Normal Monster
@@ -9014,10 +9014,10 @@ Card ID,Card Name,Card Type
 20802187,Spirit Converter,Spell Card
 69832741,Spirit Elimination,Spell Card
 16674846,Spirit Force,Trap Card
-94772232,Spirit Message \"A\",Spell Card
-31893528,Spirit Message \"I\",Spell Card
-30170981,Spirit Message \"L\",Spell Card
-67287533,Spirit Message \"N\",Spell Card
+94772232,"Spirit Message \""A\""",Spell Card
+31893528,"Spirit Message \""I\""",Spell Card
+30170981,"Spirit Message \""L\""",Spell Card
+67287533,"Spirit Message \""N\""",Spell Card
 13522325,Spirit of Flames,Effect Monster
 14037717,Spirit of the Books,Normal Monster
 53530069,Spirit of the Breeze,Effect Monster
@@ -9101,7 +9101,7 @@ Card ID,Card Name,Card Type
 63485233,Star Changer,Spell Card
 24610207,Star Drawing,Effect Monster
 41517789,Star Eater,Synchro Monster
-43661068,,Star Light,, Star Bright,,Spell Card
+43661068,"Star Light, Star Bright",Spell Card
 49407319,Star Mine,Synchro Monster
 74850403,Star Pendulumgraph,Spell Card
 76500786,Star Power!!,Spell Card
@@ -9205,7 +9205,7 @@ Card ID,Card Name,Card Type
 50032342,Strategist of the Ice Barrier,Effect Monster
 86209650,Stray Asmodian,Effect Monster
 60764581,Stray Lambs,Spell Card
-27415516,,Stream,, Dragon Ruler of Droplets,,Effect Monster
+27415516,"Stream, Dragon Ruler of Droplets",Effect Monster
 96239878,Strength in Unity,Spell Card
 13002461,Strength of Prophecy,Effect Monster
 41006930,Strike Ninja,Effect Monster
@@ -9222,7 +9222,7 @@ Card ID,Card Name,Card Type
 50732780,Stygian Security,Tuner Monster
 86137485,Stygian Sergeants,Synchro Monster
 13521194,Stygian Street Patrol,Effect Monster
-30106950,,Suanni,, Fire of the Yang Zing,,Effect Monster
+30106950,"Suanni, Fire of the Yang Zing",Effect Monster
 54485355,Sublimation Knight,Effect Monster
 63948258,Submarine Frog,Effect Monster
 99861526,Submarineroid,Effect Monster
@@ -9286,11 +9286,11 @@ Card ID,Card Name,Card Type
 27946124,Sunvine Shrine,Spell Card
 91557476,Sunvine Thrasher,Link Monster
 78552773,Supay,Tuner Monster
-17315396,,Supay,, Duskwalker,,Effect Monster
+17315396,"Supay, Duskwalker",Effect Monster
 16780318,Super All In!,Spell Card
 84769941,Super Anti-Kaiju War Machine Mecha-Dogoran,Effect Monster
 29913783,Super Anti-Kaiju War Machine Mecha-Thunder-King,Effect Monster
-77754169,Super Armored Robot Armed Black Iron \"C\",Effect Monster
+77754169,"Super Armored Robot Armed Black Iron \""C\""",Effect Monster
 85520851,Super Conductor Tyranno,Effect Monster
 86804246,Super Crashbug,Effect Monster
 45496268,Super Defense Robot Elephan,Effect Monster
@@ -9539,7 +9539,7 @@ Card ID,Card Name,Card Type
 28725004,Tainted Wisdom,Effect Monster
 44073668,Takriminos,Normal Monster
 3170832,Takuhee,Normal Monster
-80190753,,Talaya,, Princess of Cherry Blossoms,,Effect Monster
+80190753,"Talaya, Princess of Cherry Blossoms",Effect Monster
 71983925,Talisman of Spell Sealing,Trap Card
 19312169,Talisman of Trap Sealing,Spell Card
 96380700,Talkback Lancer,Link Monster
@@ -9549,7 +9549,7 @@ Card ID,Card Name,Card Type
 9831539,Tannhauser Gate,Spell Card
 46247516,Tao the Chanter,Normal Monster
 82566662,Taotie Dragon,Link Monster
-99946920,,Taotie,, Shadow of the Yang Zing,,Effect Monster
+99946920,"Taotie, Shadow of the Yang Zing",Effect Monster
 64892035,Tardy Orc,Effect Monster
 86039057,Tasuke Knight,Effect Monster
 18444902,Tatakawa Knight,Effect Monster
@@ -9568,7 +9568,7 @@ Card ID,Card Name,Card Type
 19280589,Tellus the Little Angel,Effect Monster
 87608852,Temperance of Prophecy,Effect Monster
 63101919,Tempest Magician,Synchro Monster
-89399912,,Tempest,, Dragon Ruler of Storms,,Effect Monster
+89399912,"Tempest, Dragon Ruler of Storms",Effect Monster
 732302,Temple of Skulls,Normal Monster
 29762407,Temple of the Kings,Spell Card
 92481084,Temple of the Mind's Eye,Spell Card
@@ -9578,7 +9578,7 @@ Card ID,Card Name,Card Type
 10000,Ten Thousand Dragon,Effect Monster
 33609262,Tenacity of the Monarchs,Spell Card
 57935140,Tenderness,Normal Monster
-4103668,,Tengu,, the Winged Mayakashi,,Synchro Monster
+4103668,"Tengu, the Winged Mayakashi",Synchro Monster
 41589166,Tenkabito Shien,Effect Monster
 33837653,Tenma the Sky Star,Effect Monster
 90122655,Tenmataitei,Effect Monster
@@ -9596,7 +9596,7 @@ Card ID,Card Name,Card Type
 26509612,Terra Firma Gravity,Trap Card
 63308047,Terra the Terrible,Normal Monster
 73628505,Terraforming,Spell Card
-56681873,,Terratiger,, the Empowered Warrior,,Effect Monster
+56681873,"Terratiger, the Empowered Warrior",Effect Monster
 77428945,Terrene Toothed Tsuchinoko,Effect Monster
 69724380,Terrible Deal,Trap Card
 48468330,Terrifying Toddler of Torment,Flip Effect Monster
@@ -9609,7 +9609,7 @@ Card ID,Card Name,Card Type
 92373006,Test Tiger,Effect Monster
 501000004,Testament of the Arcane Lords,Effect Monster
 74952447,Testudo erat Numen,Effect Monster
-87148330,,Tethys,, Goddess of Light,,Effect Monster
+87148330,"Tethys, Goddess of Light",Effect Monster
 16469012,Teva,Effect Monster
 74210057,Texchanger,Effect Monster
 40253382,TG-SX1,Trap Card
@@ -9652,7 +9652,7 @@ Card ID,Card Name,Card Type
 41142615,The Cheerful Coffin,Spell Card
 46232525,The Claw of Hermos,Spell Card
 61505339,The Creator,Effect Monster
-10000040,,The Creator God of Light,, Horakhty,,Effect Monster
+10000040,"The Creator God of Light, Horakhty",Effect Monster
 97093037,The Creator Incarnate,Effect Monster
 52101615,The Dark - Hex-Sealed Fusion,Effect Monster
 92719314,The Dark Creator,Effect Monster
@@ -9835,7 +9835,7 @@ Card ID,Card Name,Card Type
 6588580,Thermal Genex,Synchro Monster
 26205777,Thestalos the Firestorm Monarch,Effect Monster
 69230391,Thestalos the Mega Monarch,Effect Monster
-30604579,,Thor,, Lord of the Aesir,,Synchro Monster
+30604579,"Thor, Lord of the Aesir",Synchro Monster
 65079854,Thorn of Malice,Spell Card
 70780151,Thought Ruler Archfiend,Synchro Monster
 41462083,Thousand Dragon,Fusion Monster
@@ -9873,7 +9873,7 @@ Card ID,Card Name,Card Type
 16223761,Thunder Hand,Effect Monster
 15510988,Thunder Kid,Normal Monster
 71564252,Thunder King Rai-Oh,Effect Monster
-48770333,,Thunder King,, the Lightningstrike Kaiju,,Effect Monster
+48770333,"Thunder King, the Lightningstrike Kaiju",Effect Monster
 70797118,Thunder Nyan Nyan,Effect Monster
 91781589,Thunder of Ruler,Trap Card
 14089429,Thunder Option Token,Token
@@ -9883,8 +9883,8 @@ Card ID,Card Name,Card Type
 66722103,Thunderclap Monk,Effect Monster
 13683298,Thunderclap Skywolf,Effect Monster
 42469671,Thunderforce Attack,Spell Card
-26400609,,Tidal,, Dragon Ruler of Waterfalls,,Effect Monster
-91588074,,Tierra,, Source of Destruction,,Effect Monster
+26400609,"Tidal, Dragon Ruler of Waterfalls",Effect Monster
+91588074,"Tierra, Source of Destruction",Effect Monster
 40450317,Ties of the Brethren,Spell Card
 49791927,Tiger Axe,Normal Monster
 10097168,Tiger Dragon,Effect Monster
@@ -9935,10 +9935,10 @@ Card ID,Card Name,Card Type
 67744384,Tindangle Protector,Flip Effect Monster
 75119041,Tindangle Token,Token
 11375683,Tindangle Trinity,Flip Effect Monster
-31386180,,Tiras,, Keeper of Genesis,,XYZ Monster
+31386180,"Tiras, Keeper of Genesis",XYZ Monster
 41373230,Titaniklad the Ash Dragon,Fusion Monster
 67037924,Titanocider,Trap Card
-82319644,,Tlakalel,, His Malevolent Majesty,,Effect Monster
+82319644,"Tlakalel, His Malevolent Majesty",Effect Monster
 62671448,Toad Master,Normal Monster
 90809975,Toadally Awesome,XYZ Monster
 33878931,Togex,Normal Monster
@@ -10017,7 +10017,7 @@ Card ID,Card Name,Card Type
 35686188,Tragedy,Trap Card
 98777036,Tragoedia,Effect Monster
 60879050,Train Connection,Spell Card
-37890974,,Training Fur Hire,, Fur All Your Training Needs,,Trap Card
+37890974,"Training Fur Hire, Fur All Your Training Needs",Trap Card
 42348802,Trakodon,Normal Monster
 94283662,Trance Archfiend,Effect Monster
 14214060,Trance the Magic Swordsman,Normal Monster
@@ -10141,11 +10141,11 @@ Card ID,Card Name,Card Type
 25311006,Triple Tactics Talent,Spell Card
 61254509,Tripod Fish,Effect Monster
 45042329,Tripwire Beast,Normal Monster
-52687916,,Trishula,, Dragon of the Ice Barrier,,Synchro Monster
-15661378,,Trishula,, the Dragon of Icy Imprisonment,,Fusion Monster
-70980824,,Trishula,, Zero Dragon of the Ice Barrier,,Synchro Monster
+52687916,"Trishula, Dragon of the Ice Barrier",Synchro Monster
+15661378,"Trishula, the Dragon of Icy Imprisonment",Fusion Monster
+70980824,"Trishula, Zero Dragon of the Ice Barrier",Synchro Monster
 61159609,Trismagistus,Spell Card
-96163807,,Tristan,, Knight of the Underworld,,Effect Monster
+96163807,"Tristan, Knight of the Underworld",Effect Monster
 63323539,Trojan Blast,Trap Card
 76384284,Trojan Gladiator Beast,Trap Card
 55013285,Troop Dragon,Effect Monster
@@ -10154,14 +10154,14 @@ Card ID,Card Name,Card Type
 61529473,True Draco Apocalypse,Trap Card
 49430782,True Draco Heritage,Spell Card
 37984331,True Exodia,Effect Monster
-96746083,,True King Agnimazud,, the Vanisher,,Effect Monster
-82321037,,True King Bahrastos,, the Fathomer,,Effect Monster
-30539496,,True King Lithosagym,, the Disaster,,Effect Monster
+96746083,"True King Agnimazud, the Vanisher",Effect Monster
+82321037,"True King Bahrastos, the Fathomer",Effect Monster
+30539496,"True King Lithosagym, the Disaster",Effect Monster
 88581108,True King of All Calamities,XYZ Monster
 35125879,True King's Return,Trap Card
 87319876,Trust Guardian,Tuner Monster
-77092311,,Tsuchigumo,, the Poisonous Mayakashi,,Synchro Monster
-5325155,,Tsukahagi,, the Poisonous Mayakashi,,Tuner Monster
+77092311,"Tsuchigumo, the Poisonous Mayakashi",Synchro Monster
+5325155,"Tsukahagi, the Poisonous Mayakashi",Tuner Monster
 25334372,Tsukumo Slash,Spell Card
 34853266,Tsukuyomi,Spirit Monster
 27769400,Tualatin,Effect Monster
@@ -10191,10 +10191,10 @@ Card ID,Card Name,Card Type
 3149764,Tutan Mask,Trap Card
 83747250,Twilight Cloth,Trap Card
 57348141,Twilight Eraser,Trap Card
-76930964,,Twilight Ninja Getsuga,, the Shogun,,Effect Monster
+76930964,"Twilight Ninja Getsuga, the Shogun",Effect Monster
 79441381,Twilight Ninja Jogen,Pendulum Effect Monster
 6830480,Twilight Ninja Kagen,Pendulum Effect Monster
-40945356,,Twilight Ninja Nichirin,, the Chunin,,Effect Monster
+40945356,"Twilight Ninja Nichirin, the Chunin",Effect Monster
 14541657,Twilight Ninja Shingetsu,Effect Monster
 2986553,Twilight Rose Knight,Tuner Monster
 60431417,Twilight Twin Dragons,Spell Card
@@ -10239,7 +10239,7 @@ Card ID,Card Name,Card Type
 55271628,Tyrant's Throes,Trap Card
 76721030,Tyrant's Tirade,Trap Card
 48357738,Tyrant's Tummyache,Trap Card
-11819616,,Tytannial,, Princess of Camellias,,Effect Monster
+11819616,"Tytannial, Princess of Camellias",Effect Monster
 34614289,U.A. Blockbacker,Effect Monster
 71279983,U.A. Dreadnought Dunker,Effect Monster
 9485511,U.A. Goalkeeper,Effect Monster
@@ -10321,7 +10321,7 @@ Card ID,Card Name,Card Type
 95352218,Unification,Trap Card
 34325937,Unification of the Cubic Lords,Trap Card
 31472884,Unified Front,Trap Card
-36318200,,Uniflora,, Mystical Beast of the Forest,,Effect Monster
+36318200,"Uniflora, Mystical Beast of the Forest",Effect Monster
 56052205,Unifrog,Effect Monster
 60399954,Union Attack,Spell Card
 83152482,Union Carrier,Link Monster
@@ -10353,7 +10353,7 @@ Card ID,Card Name,Card Type
 25274141,Urgent Schedule,Spell Card
 99002135,Urgent Synthesis,Spell Card
 94634433,Urgent Tuning,Trap Card
-6007213,,Uria,, Lord of Searing Flames,,Effect Monster
+6007213,"Uria, Lord of Searing Flames",Effect Monster
 100416038,Ursarctic Big Dipper,Spell Card
 100416035,Ursarctic Grand Chariot,Synchro Monster
 100416032,Ursarctic Megabilis,Tuner Monster
@@ -10368,7 +10368,7 @@ Card ID,Card Name,Card Type
 100416037,Ursarctic Slider,Spell Card
 48649353,Ushi Oni,Normal Monster
 90884404,Utchatzimime Token,Token
-744887,,Utgarda,, Generaider Boss of Delusion,,Effect Monster
+744887,"Utgarda, Generaider Boss of Delusion",Effect Monster
 30341772,Utopia Buster,Spell Card
 59070329,Utopian Aura,Trap Card
 8512558,Utopic Onomatopoeia,Effect Monster
@@ -10377,10 +10377,10 @@ Card ID,Card Name,Card Type
 13536607,V-LAN Token,Token
 51638941,V-Tiger Jet,Normal Monster
 9929399,Vague Shadow Token,Token
-61272280,,Vahram,, the Magistus Divinity Dragon,,Synchro Monster
+61272280,"Vahram, the Magistus Divinity Dragon",Synchro Monster
 94933468,Vain Betrayer,Trap Card
-24096499,,Valerifawn,, Mystical Beast of the Forest,,Tuner Monster
-1353770,,Valhalla,, Hall of the Fallen,,Spell Card
+24096499,"Valerifawn, Mystical Beast of the Forest",Tuner Monster
+1353770,"Valhalla, Hall of the Fallen",Spell Card
 23672629,Valiant Shark Lancer,XYZ Monster
 99348756,Valkyrian Knight,Effect Monster
 2204038,Valkyrie Brunhilde,Effect Monster
@@ -10433,7 +10433,7 @@ Card ID,Card Name,Card Type
 64038662,Variable Form,Trap Card
 65196094,Variety Comes Out,Spell Card
 22404676,Vassal Token,Token
-69512157,,Vector Pendulum,, the Dracoverlord,,Pendulum Normal Monster
+69512157,"Vector Pendulum, the Dracoverlord",Pendulum Normal Monster
 13452889,Vector Scare Archfiend,Link Monster
 23299957,Vehicroid Connection Zone,Spell Card
 90434926,Veil of Darkness,Spell Card
@@ -10456,7 +10456,7 @@ Card ID,Card Name,Card Type
 26046205,Vengeful Shinobi,Effect Monster
 8062132,Vennominaga the Deity of Poisonous Snakes,Effect Monster
 72677437,Vennominon the King of Poisonous Snakes,Effect Monster
-10441498,,Vennu,, Bright Bird of Divinity,,Ritual Effect Monster
+10441498,"Vennu, Bright Bird of Divinity",Ritual Effect Monster
 9284723,Venom Boa,Effect Monster
 4466015,Venom Burn,Trap Card
 22499463,Venom Cobra,Normal Monster
@@ -10464,7 +10464,7 @@ Card ID,Card Name,Card Type
 60728397,Venom Shot,Spell Card
 73899015,Venom Snake,Effect Monster
 54306223,Venom Swamp,Spell Card
-93298460,,Ventdra,, the Empowered Warrior,,Effect Monster
+93298460,"Ventdra, the Empowered Warrior",Effect Monster
 80402389,Verdant Sanctuary,Spell Card
 66698383,Vermillion Dragon Mech,Synchro Monster
 35752363,Vermillion Sparrow,Fusion Monster
@@ -10487,7 +10487,7 @@ Card ID,Card Name,Card Type
 62379337,Violet Witch,Effect Monster
 64973456,Viper's Rebirth,Spell Card
 300102005,Viral Infection,Skill Card
-601193,,Virgil,, Rock Star of the Burning Abyss,,Synchro Monster
+601193,"Virgil, Rock Star of the Burning Abyss",Synchro Monster
 35252119,Virtual World Beast - Jiujiu,Synchro Monster
 14886190,Virtual World City - Kauwloon,Spell Card
 61641818,Virtual World Dragon - Longlong,XYZ Monster
@@ -10703,7 +10703,7 @@ Card ID,Card Name,Card Type
 49306994,White Veil,Spell Card
 11067666,White Wing Magician,Pendulum Tuner Effect Monster
 73891874,White-Horned Dragon,Effect Monster
-31374201,,Whitebeard,, the Plunder Patroll Helm,,Tuner Monster
+31374201,"Whitebeard, the Plunder Patroll Helm",Tuner Monster
 63509474,Whitefish Salvage,Spell Card
 27103517,Wicked Acolyte Chilam Sabak,Effect Monster
 2957055,Wicked Dragon with the Ersatz Head,Normal Monster
@@ -10746,8 +10746,8 @@ Card ID,Card Name,Card Type
 78156759,Wind-Up Zenmaines,XYZ Monster
 1735088,Wind-Up Zenmaintenance,Link Monster
 68597372,Wind-Up Zenmaister,XYZ Monster
-54455435,,Winda,, Priestess of Gusto,,Effect Monster
-27944249,,Windaar,, Sage of Gusto,,Effect Monster
+54455435,"Winda, Priestess of Gusto",Effect Monster
+27944249,"Windaar, Sage of Gusto",Effect Monster
 43925870,Windmill Genex,Synchro Monster
 53027855,Windrose the Elemental Lord,Effect Monster
 17197110,Winds Over the Ice Barrier,Spell Card
@@ -10764,8 +10764,8 @@ Card ID,Card Name,Card Type
 47319141,Wing Eagle,Normal Monster
 98582704,Wing Egg Elf,Normal Monster
 39175982,Winged Cleaver,Normal Monster
-87796900,,Winged Dragon,, Guardian of the Fortress #1,,Normal Monster
-57405307,,Winged Dragon,, Guardian of the Fortress #2,,Normal Monster
+87796900,"Winged Dragon, Guardian of the Fortress #1",Normal Monster
+57405307,"Winged Dragon, Guardian of the Fortress #2",Normal Monster
 42418084,Winged Egg of New Life,Normal Monster
 57116033,Winged Kuriboh,Effect Monster
 98585345,Winged Kuriboh LV10,Effect Monster
@@ -10804,7 +10804,7 @@ Card ID,Card Name,Card Type
 19673561,Witchcrafter Scroll,Spell Card
 70226289,Witchcrafter Unveiling,Spell Card
 36304921,Witty Phantom,Normal Monster
-1527418,,Wiz,, Sage Fur Hire,,Effect Monster
+1527418,"Wiz, Sage Fur Hire",Effect Monster
 2602411,Wizard Buster Destruction Sword,Effect Monster
 42883273,Wodan the Resident of the Forest,Effect Monster
 49417509,Wolf,Normal Monster
@@ -10825,14 +10825,14 @@ Card ID,Card Name,Card Type
 95793022,World Chalice Guardragon Almarduke,Fusion Monster
 90173539,World Dino Wrestling,Spell Card
 57282724,World Gears of Theurlogical Demiurgy,Link Monster
-42388271,World Legacy - \"World Ark\",Effect Monster
-83477829,World Legacy - \"World Armor\",Effect Monster
-57288708,World Legacy - \"World Chalice\",Effect Monster
-27918365,World Legacy - \"World Crown\",Effect Monster
-40441990,World Legacy - \"World Key\",Effect Monster
-46647144,World Legacy - \"World Lance\",Effect Monster
-55787576,World Legacy - \"World Shield\",Effect Monster
-93920420,World Legacy - \"World Wand\",Effect Monster
+42388271,"World Legacy - \""World Ark\""",Effect Monster
+83477829,"World Legacy - \""World Armor\""",Effect Monster
+57288708,"World Legacy - \""World Chalice\""",Effect Monster
+27918365,"World Legacy - \""World Crown\""",Effect Monster
+40441990,"World Legacy - \""World Key\""",Effect Monster
+46647144,"World Legacy - \""World Lance\""",Effect Monster
+55787576,"World Legacy - \""World Shield\""",Effect Monster
+93920420,"World Legacy - \""World Wand\""",Effect Monster
 12989604,World Legacy Awakens,Trap Card
 59778096,World Legacy Bestowal,Trap Card
 93236220,World Legacy Clash,Spell Card
@@ -10898,10 +10898,10 @@ Card ID,Card Name,Card Type
 28139785,Wrecker Panda,Effect Monster
 17238333,Wretched Ghost of the Attic,Normal Monster
 6480253,Wroughtweiler,Effect Monster
-58996430,,Wulf,, Lightsworn Beast,,Effect Monster
+58996430,"Wulf, Lightsworn Beast",Effect Monster
 86395581,Wynn the Wind Channeler,Effect Monster
 37744402,Wynn the Wind Charmer,Flip Effect Monster
-30674956,,Wynn the Wind Charmer,, Verdant,,Link Monster
+30674956,"Wynn the Wind Charmer, Verdant",Link Monster
 62651957,X-Head Cannon,Normal Monster
 66393507,X-Krawler Neurogos,Link Monster
 92781606,X-Krawler Qualiark,Link Monster
@@ -10987,18 +10987,18 @@ Card ID,Card Name,Card Type
 43577607,Yang Zing Prana,Spell Card
 77783947,Yang Zing Unleashed,Trap Card
 71280811,Yaranzo,Normal Monster
-77714963,,Yasha,, the Skeletal Mayakashi,,Effect Monster
+77714963,"Yasha, the Skeletal Mayakashi",Effect Monster
 41061625,Yashinoki,Normal Monster
 3078576,Yata-Garasu,Spirit Monster
-43202238,,Yazi,, Evil of the Yang Zing,,Synchro Monster
-65303664,,Yellow Baboon,, Archer of the Forest,,Effect Monster
+43202238,"Yazi, Evil of the Yang Zing",Synchro Monster
+65303664,"Yellow Baboon, Archer of the Forest",Effect Monster
 90247311,Yellow Dragon Ninja,Effect Monster
 16366810,Yellow Duston,Effect Monster
 13839120,Yellow Gadget,Effect Monster
 4542651,Yellow Luster Shield,Spell Card
 64749612,Yellow Ninja,Effect Monster
 53090623,Yellow-Bellied Oni,Effect Monster
-3486020,,Yoko,, the Graceful Mayakashi,,Synchro Monster
+3486020,"Yoko, the Graceful Mayakashi",Synchro Monster
 40516623,Yoko-Zuna Sumo Spirit,Pendulum Effect Monster
 27750191,Yokotuner,Tuner Monster
 51534754,Yomi Ship,Effect Monster
@@ -11027,9 +11027,9 @@ Card ID,Card Name,Card Type
 78371393,Yubel,Effect Monster
 4779091,Yubel - Terror Incarnate,Effect Monster
 31764700,Yubel - The Ultimate Nightmare,Effect Monster
-72700231,,Yuki-Musume,, the Ice Mayakashi,,Effect Monster
-2645637,,Yuki-Onna,, the Absolute Zero Mayakashi,,Link Monster
-66870733,,Yuki-Onna,, the Ice Mayakashi,,Link Monster
+72700231,"Yuki-Musume, the Ice Mayakashi",Effect Monster
+2645637,"Yuki-Onna, the Absolute Zero Mayakashi",Link Monster
+66870733,"Yuki-Onna, the Ice Mayakashi",Link Monster
 25119460,YZ-Tank Dragon,Fusion Monster
 64500000,Z-Metal Tank,Union Effect Monster
 62499965,Z-ONE,Spell Card
@@ -11038,7 +11038,7 @@ Card ID,Card Name,Card Type
 30090452,Zanki,Normal Monster
 97466438,Zany Zebra,Pendulum Effect Monster
 29951323,Zap Mustung,Effect Monster
-28929131,,Zaphion,, the Timelord,,Effect Monster
+28929131,"Zaphion, the Timelord",Effect Monster
 10598400,Zarigun,Normal Monster
 35561352,Zefra Divine Strike,Trap Card
 85216896,Zefra Metaltron,Link Monster
@@ -11046,10 +11046,10 @@ Card ID,Card Name,Card Type
 74580251,Zefra Providence,Spell Card
 96073342,Zefra War,Trap Card
 29432356,Zefraath,Pendulum Effect Monster
-58990362,,Zefraniu,, Secret of the Yang Zing,,Pendulum Effect Monster
-84388461,,Zefrasaber,, Swordmaster of the Nekroz,,Pendulum Effect Monster
-20773176,,Zefraxa,, Flame Beast of the Nekroz,,Pendulum Effect Monster
-21495657,,Zefraxi,, Treasure of the Yang Zing,,Pendulum Effect Monster
+58990362,"Zefraniu, Secret of the Yang Zing",Pendulum Effect Monster
+84388461,"Zefrasaber, Swordmaster of the Nekroz",Pendulum Effect Monster
+20773176,"Zefraxa, Flame Beast of the Nekroz",Pendulum Effect Monster
+21495657,"Zefraxi, Treasure of the Yang Zing",Pendulum Effect Monster
 74854609,Zekt Conversion,Trap Card
 22858242,Zeman the Ape King,Synchro Monster
 83319610,Zenmaiday,Trap Card
@@ -11058,7 +11058,7 @@ Card ID,Card Name,Card Type
 29999161,Zenmairch,Trap Card
 81756897,Zera Ritual,Spell Card
 69123138,Zera the Mant,Ritual Monster
-12171659,,Zeradias,, Herald of Heaven,,Effect Monster
+12171659,"Zeradias, Herald of Heaven",Effect Monster
 60162470,Zero Extra Link,Spell Card
 17521642,Zero Force,Trap Card
 93816465,Zero Gardna,Effect Monster
@@ -11066,14 +11066,14 @@ Card ID,Card Name,Card Type
 93014827,Zero-Day Blaster,Trap Card
 30562585,ZERO-MAX,Spell Card
 85446833,Zerozerock,Spell Card
-17739335,,Zerrziel,, Ruler of the Evil Eyed,,Link Monster
+17739335,"Zerrziel, Ruler of the Evil Eyed",Link Monster
 64382839,Zeta Reticulant,Effect Monster
 31712840,ZEXAL Alliance,Trap Card
 62623659,ZEXAL Construction,Spell Card
 4017398,ZEXAL Entrust,Spell Card
 24311372,Zoa,Normal Monster
 675319,Zodiac Sign,Spell Card
-100416004,,Zoha,, Haze of the Abhyss,,Effect Monster
+100416004,"Zoha, Haze of the Abhyss",Effect Monster
 16268841,Zolga,Effect Monster
 31525442,Zolga the Prophet,Effect Monster
 79852326,Zoma the Spirit,Trap Card
@@ -11105,7 +11105,7 @@ Card ID,Card Name,Card Type
 77150143,Zoodiac Thoroughblade,Effect Monster
 11510448,Zoodiac Tigermortar,XYZ Monster
 31755044,Zoodiac Whiptail,Effect Monster
-36099130,,Zoroa,, the Magistus of Flame,,Tuner Monster
+36099130,"Zoroa, the Magistus of Flame",Tuner Monster
 68258355,ZS - Arms Sage,Effect Monster
 4647954,ZS - Ascend Sage,Effect Monster
 51865604,ZS - Vanish Sage,Effect Monster
@@ -11114,7 +11114,7 @@ Card ID,Card Name,Card Type
 97896503,Zubaba Knight,Effect Monster
 23720856,Zubababancho Gagagacoat,Effect Monster
 43256007,Zuijin of the Ice Barrier,Effect Monster
-7459013,,Zure,, Knight of Dark World,,Normal Monster
+7459013,"Zure, Knight of Dark World",Normal Monster
 67547370,Zushin the Sleeping Giant,Effect Monster
 40941889,ZW - Asura Strike,Effect Monster
 2896663,ZW - Dragonic Halberd,XYZ Monster

@@ -10,25 +10,19 @@ import re
 def create_header(attributes, outfile):
     # Fill the top line of the outfile with the attributes
     with open(outfile, 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile, delimiter=',', quotechar=',', quoting=csv.QUOTE_MINIMAL)
+        writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         writer.writerow(attributes)
 
 def download_cards(infile, regex):
     # declare result list
     cardList = list()
 
-    # DEBUG_COUNT = 0
-
     # for each line in the input file (NOTE: I think our input php is one long line)
     for line in open(infile):
         # for each card found
         for match in re.finditer(regex, line):
             # add fields to card list
-            print(match.group(1))
             cardList.append([match.group(1), match.group(2), match.group(3)])
-            # if(DEBUG_COUNT > 5):
-            #     break
-            # ++DEBUG_COUNT
 
     # return the card list
     return cardList
@@ -36,7 +30,7 @@ def download_cards(infile, regex):
 def upload_cards(cardList, outfile):
     # Fill the csv with the card list
     with open(outfile, 'a', newline='') as csvfile:
-        writer = csv.writer(csvfile, delimiter=',', quotechar=',', quoting=csv.QUOTE_MINIMAL)
+        writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         for card in cardList:
             writer.writerow(card)
 
