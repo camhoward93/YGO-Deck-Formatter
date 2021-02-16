@@ -11,9 +11,9 @@ Two friends playing Yu-Gi-Oh online and modifying a deck formatter for their col
 
 - __4__ - Research pull rates/statistics in ygopro pack opener...
 
- - __4.1__ - Do the pull rates factor in short prints??
+  - __4.1__ - Do the pull rates factor in short prints??
 
- - __4.2__ - Are the statistics accurate/can we improve them? 
+  - __4.2__ - Are the statistics accurate/can we improve them? 
 
- - __4.3__ - Implement our own primative code based pack simulator
+  - __4.3__ - Implement our own primative code based pack simulator
 
