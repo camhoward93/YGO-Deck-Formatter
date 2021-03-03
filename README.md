@@ -15,5 +15,7 @@ Two friends playing Yu-Gi-Oh online and modifying a deck formatter for their col
 
   - __4.2__ - Are the statistics accurate/can we improve them? 
 
-  - __4.3__ - Implement our own primative code based pack simulator
+  - __4.3__ - Pulling without replacement from commons?
+ 
+- __5__ - Implement our own primative code based pack simulator
 
