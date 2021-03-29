@@ -18,4 +18,8 @@ Two friends playing Yu-Gi-Oh online and modifying a deck formatter for their col
   - __4.3__ - Pulling without replacement from commons?
  
 - __5__ - Implement our own primative code based pack simulator
+- __6__ - Add code to combine collection/ydk files and output in either filetype
 
+### Notes
+
+- Dark beginning 1 has possibility to give 11 cards rather than 12.
